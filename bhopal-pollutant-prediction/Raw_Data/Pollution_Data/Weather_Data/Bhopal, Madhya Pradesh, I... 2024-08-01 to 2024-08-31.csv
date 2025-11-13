@@ -1,0 +1,745 @@
+name,datetime,temp,feelslike,dew,humidity,precip,precipprob,preciptype,snow,snowdepth,windgust,windspeed,winddir,sealevelpressure,cloudcover,visibility,solarradiation,solarenergy,uvindex,severerisk,conditions,icon,stations
+"Bhopal, Madhya Pradesh, India",2024-08-01T00:00:00,79.1,79.1,77.1,93.68,0,0,,0,0,12.8,6.5,250.9,1003,100,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-01T01:00:00,78.9,78.9,76.7,93.12,0,0,,0,0,13.6,7.6,262.7,1003,100,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-01T02:00:00,77.8,77.8,75.8,93.65,0,0,,0,0,16.6,9.2,266.7,1002,100,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-01T03:00:00,78.2,78.2,76,93.1,0,0,,0,0,18.1,9.2,263.3,1001,98.5,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-01T04:00:00,76.6,76.6,73.8,91.38,0,0,,0,0,18.1,9.2,276.8,1001,99.1,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-01T05:00:00,76.1,76.1,75.3,97.25,0,0,,0,0,17,10.3,230,1001.6,93.6,1.6,0,0,0,,Overcast,cloudy,"VABP,42667099999"
+"Bhopal, Madhya Pradesh, India",2024-08-01T06:00:00,77.1,77.1,74,90.31,0,0,,0,0,17.4,8.5,283.1,1002,100,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-01T07:00:00,77.3,77.3,74,89.77,0,0,,0,0,19.2,8.5,284.9,1002,100,,3.6,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-01T08:00:00,76.3,76.3,74.9,95.39,0,0,,0,0,19.9,7.9,225,1003.9,93.7,1.6,31,0.1,0,,Overcast,cloudy,"VABP,42672099999,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-01T09:00:00,77.6,77.6,74.6,90.33,0,0,,0,0,20.6,7.8,269.6,1002,100,,56.1,0.2,1,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-01T10:00:00,78,78,74.6,89.26,0,0,,0,0,24.8,7.6,264.6,1003,100,,173.2,0.6,2,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-01T11:00:00,77.6,77.6,75.3,92.59,0,0,,0,0,27.3,11.3,249,1002.8,100,1.2,286.8,1,3,,Overcast,cloudy,"42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-01T12:00:00,81.2,87.6,75.6,83.22,0,0,,0,0,26.2,8.9,266.2,1004,100,,240.5,0.9,2,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-01T13:00:00,80.9,86.9,75.6,84.2,0,0,,0,0,17.2,9.2,268.5,1003,100,,77.4,0.3,1,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-01T14:00:00,75.1,75.1,74.3,97.5,1.535,100,rain,0,0,16.8,10.3,250,1002,100,1,81.3,0.3,1,,"Rain, Overcast",rain,"VABP,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-01T15:00:00,81.4,88,75.6,82.73,0,0,,0,0,15,8.9,269.2,1001,100,,77,0.3,1,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-01T16:00:00,77.6,77.6,75.8,94.21,0,0,,0,0,16.3,6.9,274,1001,100,,101.6,0.4,1,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-01T17:00:00,76.1,76.1,75.7,98.6,0,0,,0,0,15.4,6.3,250,1000.6,89.1,1.6,86.6,0.3,1,,Partially cloudy,partly-cloudy-day,"VABP,42672099999,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-01T18:00:00,78.5,78.5,76.4,93.11,0,0,,0,0,13.4,7.6,258.4,1000,99.8,,70,0.3,1,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-01T19:00:00,78.7,78.7,76.4,92.56,0,0,,0,0,12.8,7.8,255.9,1001,100,,29.4,0.1,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-01T20:00:00,75.9,75.9,75,97.25,0,0,,0,0,12.1,6.9,230,1002,88.9,1.6,1.3,0,0,,Partially cloudy,partly-cloudy-night,"VABP,42667099999"
+"Bhopal, Madhya Pradesh, India",2024-08-01T21:00:00,76.9,76.9,75.6,95.9,0,0,,0,0,13.6,6.9,247.5,1002,100,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-01T22:00:00,76.9,76.9,75.5,95.33,0,0,,0,0,14.1,7.4,242.1,1003,100,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-01T23:00:00,76,76,76,100,0.118,100,rain,0,0,14.5,6.9,230,1002.9,100,1.6,0,0,0,,"Rain, Overcast",rain,"VABP,42667099999"
+"Bhopal, Madhya Pradesh, India",2024-08-02T00:00:00,76.6,76.6,75.3,95.89,0,0,,0,0,14.3,7.6,248.6,1003,100,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-02T01:00:00,76.2,76.2,75.1,96.47,0,0,,0,0,14.5,7.6,249.9,1002,100,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-02T02:00:00,76.7,76.7,76.4,98.81,0,0,,0,0,14.3,9.2,200,999.5,100,1.2,0,0,0,,Overcast,cloudy,42667099999
+"Bhopal, Madhya Pradesh, India",2024-08-02T03:00:00,76,76,75.1,97.05,0,0,,0,0,12.8,6.5,244.8,1001,100,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-02T04:00:00,75.1,75.1,74.7,98.8,0,0,,0,0,14.1,6,234.8,1001,100,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-02T05:00:00,74.2,74.2,74.2,100,0.748,100,rain,0,0,12.3,9.2,230,1000.7,100,1.6,0,0,0,,"Rain, Overcast",rain,"VABP,42667099999"
+"Bhopal, Madhya Pradesh, India",2024-08-02T06:00:00,76,76,74.2,94.17,0,0,,0,0,15.9,8.1,249.6,1001,100,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-02T07:00:00,76,76,73.7,92.48,0,0,,0,0,19,8.5,245.3,1001,100,,1.1,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-02T08:00:00,73.9,73.9,72.7,96.06,0.945,100,rain,0,0,19.9,12.5,219,1001.8,100,1,9.2,0,0,,"Rain, Overcast",rain,"VABP,42672099999,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-02T09:00:00,76,76,73.5,91.92,0,0,,0,0,21.5,10.5,246.2,1001,100,,26.5,0.1,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-02T10:00:00,75.5,75.5,73.3,93.02,0,0,,0,0,23.9,11.2,249.9,1002,100,,39.4,0.1,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-02T11:00:00,75.9,75.9,75,97.03,0.906,100,rain,0,0,24.6,10.2,230,1000.6,100,1.2,56.5,0.2,1,,"Rain, Overcast",rain,"42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-02T12:00:00,76.4,76.4,74.6,94.18,0,0,,0,0,23.5,11.2,250.1,1002,100,,95.6,0.3,1,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-02T13:00:00,76.4,76.4,74.4,93.61,0,0,,0,0,21.3,11,250.1,1001,100,,133.8,0.5,1,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-02T14:00:00,76.1,76.1,75.5,97.8,0,0,,0,0,21.7,11.3,225,1000.6,100,1.6,115,0.4,1,,Overcast,cloudy,"VABP,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-02T15:00:00,76.9,76.9,75.1,94.19,0,0,,0,0,23.7,12.5,256.8,1000,100,,234.7,0.8,2,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-02T16:00:00,76.2,76.2,74.4,94.17,0,0,,0,0,24.6,12.5,259.8,1000,100,,70.9,0.3,1,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-02T17:00:00,75.5,75.5,74.1,95.49,0.315,100,rain,0,0,24.4,8.4,219,999.9,100,1.6,34,0.1,0,,"Rain, Overcast",rain,"VABP,42672099999,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-02T18:00:00,75.8,75.8,74.4,95.31,0,0,,0,0,25.1,12.3,262.4,1000,100,,35.5,0.1,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-02T19:00:00,75.8,75.8,74.2,94.73,0,0,,0,0,24.6,12.1,258.7,1000,100,,5.4,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-02T20:00:00,73.9,73.9,72.4,95.19,0.591,100,rain,0,0,23.5,10.3,225,1001.8,100,1.6,1.2,0,0,,"Rain, Overcast",rain,"VABP,42667099999"
+"Bhopal, Madhya Pradesh, India",2024-08-02T21:00:00,74.7,74.7,73.5,95.86,0,0,,0,0,20.4,11.4,258.9,1001,100,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-02T22:00:00,75.1,75.1,73.7,95.29,0,0,,0,0,19.5,11.2,259.9,1002,100,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-02T23:00:00,74.2,74.2,73.6,98.05,0.157,100,rain,0,0,19.2,10.3,230,1002.9,100,1.6,0,0,0,,"Rain, Overcast",rain,"VABP,42667099999"
+"Bhopal, Madhya Pradesh, India",2024-08-03T00:00:00,75.5,75.5,74.7,97.62,0,0,,0,0,19,10.1,257.3,1003,100,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-03T01:00:00,75.6,75.6,74.4,95.88,0,0,,0,0,18.3,9.4,254.5,1002,100,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-03T02:00:00,74.9,74.9,73.7,95.87,0,0,,0,0,17.2,11.4,210,1001,100,1.2,0,0,0,,Overcast,cloudy,42667099999
+"Bhopal, Madhya Pradesh, India",2024-08-03T03:00:00,75.5,75.5,74,95.3,0,0,,0,0,15.9,8.1,243,1001,100,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-03T04:00:00,75.5,75.5,74,95.3,0,0,,0,0,15.7,8.3,237.4,1000,100,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-03T05:00:00,76.7,76.7,75.5,95.9,0.118,100,rain,0,0,15,5.8,210,1000,100,1.2,0,0,0,,"Rain, Overcast",rain,42667099999
+"Bhopal, Madhya Pradesh, India",2024-08-03T06:00:00,74.7,74.7,73.8,97.03,0,0,,0,0,15.4,9.4,218.1,1001,100,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-03T07:00:00,74.7,74.7,73.7,96.45,0,0,,0,0,16.1,9.6,224.3,1001,100,,2.1,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-03T08:00:00,74.4,74.4,73.9,98.62,0,0,,0,0,16.1,8.9,199,1002.1,93.7,1.6,12.2,0,0,,Overcast,cloudy,"VABP,42672099999,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-03T09:00:00,74.6,74.6,74,98.21,0,0,,0,0,15.9,9.2,235,1003,100,,27.6,0.1,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-03T10:00:00,74.2,74.2,74.2,100,0,0,,0,0,15.4,9.2,241.8,1003,100,,39.1,0.1,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-03T11:00:00,77.8,77.8,76.4,95.42,0.016,100,rain,0,0,15.4,10.8,211,1003.4,93.6,2.5,76.7,0.3,1,,"Rain, Overcast",rain,"VABP,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-03T12:00:00,76.4,76.4,76,98.81,0,0,,0,0,17,11.4,245.1,1003,100,,85.3,0.3,1,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-03T13:00:00,76.2,76.2,75.5,97.63,0,0,,0,0,24.2,13.9,250.2,1003,100,,125.4,0.5,1,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-03T14:00:00,81.2,88.2,76.7,86.4,0,0,,0,0,24.2,10.2,230,998.6,90.1,2.5,154.7,0.6,2,,Overcast,cloudy,"42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-03T15:00:00,76,76,75.8,99.4,0,0,,0,0,23.5,11.6,247.7,1002,100,,89.5,0.3,1,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-03T16:00:00,79.1,79.1,75.8,89.84,0,0,,0,0,21.7,11.9,246.1,1001,100,,125.5,0.5,1,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-03T17:00:00,79.7,79.7,77.2,92.23,0,0,,0,0,21.7,9,180,1000.5,89.1,2.8,118.6,0.4,1,,Partially cloudy,partly-cloudy-day,"VABP,42672099999,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-03T18:00:00,79.2,79.2,76.2,90.39,0,0,,0,0,21.7,10.5,235.9,1001,98.9,,118.9,0.4,1,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-03T19:00:00,78.9,78.9,76.2,91.46,0,0,,0,0,18.8,9.8,234.6,1001,98.6,,38.7,0.1,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-03T20:00:00,76.3,76.3,75.9,98.62,0,0,,0,0,17,9.2,180,1002.6,88.9,2.8,3.1,0,0,,Partially cloudy,partly-cloudy-night,"VABP,42667099999"
+"Bhopal, Madhya Pradesh, India",2024-08-03T21:00:00,76.4,76.4,75.8,98.22,0,0,,0,0,15.4,9.2,238.7,1002,100,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-03T22:00:00,76.6,76.6,75.8,97.64,0,0,,0,0,14.5,10.3,242.1,1003,100,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-03T23:00:00,77.1,77.1,75.5,94.76,0,0,,0,0,16.1,8.1,230,1001.8,90,2.5,0,0,0,,Partially cloudy,partly-cloudy-night,42667099999
+"Bhopal, Madhya Pradesh, India",2024-08-04T00:00:00,76.4,76.4,75.6,97.63,0,0,,0,0,17,10.7,248.6,1003,100,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-04T01:00:00,76.6,76.6,75.3,95.89,0,0,,0,0,18.3,10.5,252,1002,100,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-04T02:00:00,73.3,73.3,73.3,100,0,0,,0,0,18.3,10.3,230,1002,100,1.9,0,0,0,,Overcast,cloudy,VABP
+"Bhopal, Madhya Pradesh, India",2024-08-04T03:00:00,76.2,76.2,75.3,97.05,0,0,,0,0,18.1,11,261.1,1001,100,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-04T04:00:00,76,76,75.3,97.63,0,0,,0,0,19,8.3,267.3,1001,100,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-04T05:00:00,75.4,75.4,75,98.61,1.913,100,rain,0,0,18.3,11.4,245,1000.7,100,1,0,0,0,,"Rain, Overcast",rain,"VABP,42667099999"
+"Bhopal, Madhya Pradesh, India",2024-08-04T06:00:00,76.4,76.4,74.4,93.61,0,0,,0,0,18.3,8.7,273.2,1000,100,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-04T07:00:00,76.2,76.2,74.6,94.74,0,0,,0,0,19.2,10.1,281.9,1001,100,,1.7,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-04T08:00:00,74.3,74.3,74.3,99.73,0.551,100,rain,0,0,21.9,11.2,230,1001.8,100,0.6,20.9,0.1,0,,"Rain, Overcast",rain,"VABP,42672099999,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-04T09:00:00,76.2,76.2,74.7,95.31,0,0,,0,0,24.2,12.1,283.5,1001,100,,57.9,0.2,1,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-04T10:00:00,76.2,76.2,75.1,96.47,0,0,,0,0,24.4,12.5,278,1002,100,,100.6,0.4,1,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-04T11:00:00,76,76,76,100,0.591,100,rain,0,0,23.3,12.7,230,1001.8,100,1.2,72.1,0.3,1,,"Rain, Overcast",rain,"VABP,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-04T12:00:00,76.9,76.9,76.6,98.81,0,0,,0,0,24.4,13.6,260.6,1002,100,,83.3,0.3,1,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-04T13:00:00,77.6,77.6,76.2,95.34,0,0,,0,0,24.6,13.2,257.8,1002,100,,63.7,0.2,1,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-04T14:00:00,77.1,77.1,75.5,94.79,0.157,100,rain,0,0,23.5,16,230,999.2,100,0.6,111.7,0.4,1,,"Rain, Overcast",rain,"42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-04T15:00:00,76.7,76.7,76,97.64,0,0,,0,0,27.3,14.5,261.3,1001,100,,57,0.2,1,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-04T16:00:00,76.6,76.6,74.7,94.18,0,0,,0,0,25.7,12.5,250.2,1000,100,,52.2,0.2,1,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-04T17:00:00,77.3,77.3,75,92.58,0,0,,0,0,24.6,14.5,230,998.3,100,1.2,45.3,0.2,0,,Overcast,cloudy,"42672099999,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-04T18:00:00,76.7,76.7,74.9,94.18,0,0,,0,0,23.7,12.3,238.2,999,100,,32.2,0.1,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-04T19:00:00,76.7,76.7,74.9,94.18,0,0,,0,0,23.3,12.1,237.7,1000,100,,13.1,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-04T20:00:00,76.1,76.1,75.4,97.8,0,0,,0,0,22.1,9.2,180,1002.6,88.9,1.6,1.3,0,0,,Partially cloudy,partly-cloudy-night,"VABP,42667099999"
+"Bhopal, Madhya Pradesh, India",2024-08-04T21:00:00,76.7,76.7,75.8,97.05,0,0,,0,0,21.3,12.3,233.1,1002,100,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-04T22:00:00,76.9,76.9,75.1,94.19,0,0,,0,0,21.5,12.1,229,1003,100,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-04T23:00:00,75.9,75.9,74.9,96.71,0,0,,0,0,20.8,13.3,180,1003.6,93.6,2.5,0,0,0,,Overcast,cloudy,"VABP,42667099999"
+"Bhopal, Madhya Pradesh, India",2024-08-05T00:00:00,76.4,76.4,74.9,95.32,0,0,,0,0,20.6,12.3,218,1003,100,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-05T01:00:00,76,76,74.6,95.31,0,0,,0,0,22.8,12.5,218.9,1002,100,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-05T02:00:00,75.5,75.5,74,95.3,0,0,,0,0,22.6,10.3,200,1000.1,100,2.5,0,0,0,,Overcast,cloudy,42667099999
+"Bhopal, Madhya Pradesh, India",2024-08-05T03:00:00,76,76,74.4,94.74,0,0,,0,0,21.9,12.8,222.4,1002,100,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-05T04:00:00,75.5,75.5,74.7,97.62,0,0,,0,0,22.8,13.2,221.1,1002,100,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-05T05:00:00,75.8,75.8,74.9,97.04,0,0,,0,0,23.7,9.2,160,1001.7,100,2.5,0,0,0,,Overcast,cloudy,42667099999
+"Bhopal, Madhya Pradesh, India",2024-08-05T06:00:00,76,76,74.6,95.31,0,0,,0,0,23.7,12.3,226.4,1003,100,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-05T07:00:00,75.8,75.8,74.4,95.31,0,0,,0,0,23.3,11.2,226.9,1004,100,,1.2,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-05T08:00:00,76.1,76.1,75,96.69,0,0,,0,0,22.6,10.1,161,1004.8,89.1,2.5,17.5,0.1,0,,Partially cloudy,partly-cloudy-day,"VABP,42672099999,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-05T09:00:00,76.4,76.4,74.6,94.18,0,0,,0,0,26.2,13.6,233,1005,98.8,,66.4,0.2,1,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-05T10:00:00,76.9,76.9,74.4,91.95,0,0,,0,0,28.9,14.5,235.9,1005,87.4,,221.9,0.8,2,,Partially cloudy,partly-cloudy-day,remote
+"Bhopal, Madhya Pradesh, India",2024-08-05T11:00:00,79.5,79.5,78.9,98.05,0,0,,0,0,29.3,16,180,1005.6,89,2.5,279,1,3,,Partially cloudy,partly-cloudy-day,"VABP,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-05T12:00:00,81.6,88.7,76.2,83.74,0,0,,0,0,29.5,14.1,240.7,1005,56.3,,413.2,1.5,4,,Partially cloudy,partly-cloudy-day,remote
+"Bhopal, Madhya Pradesh, India",2024-08-05T13:00:00,82.3,90.9,77.3,84.79,0,0,,0,0,29.1,12.3,238.5,1005,68.7,,585.5,2.1,6,,Partially cloudy,partly-cloudy-day,remote
+"Bhopal, Madhya Pradesh, India",2024-08-05T14:00:00,82.6,94.2,80.1,92.11,0,0,,0,0,29.1,11.4,180,1004.3,93.6,2.8,491.8,1.8,5,,Overcast,cloudy,"VABP,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-05T15:00:00,82.8,91.6,76.9,82.33,0,0,,0,0,27.7,11,239.1,1004,70,,469.7,1.7,5,,Partially cloudy,partly-cloudy-day,remote
+"Bhopal, Madhya Pradesh, India",2024-08-05T16:00:00,80.1,85.4,75.5,85.68,0,0,,0,0,26.6,10.7,234.7,1003,79.3,,223.7,0.8,2,,Partially cloudy,partly-cloudy-day,remote
+"Bhopal, Madhya Pradesh, India",2024-08-05T17:00:00,79.1,79.1,78.8,99.16,0.197,100,rain,0,0,21,8.9,181,1001.3,98.4,2.5,222.5,0.8,2,,"Rain, Overcast",rain,"42672099999,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-05T18:00:00,81.2,87.9,76,84.22,0,0,,0,0,19.7,9.8,226.8,1003,28.2,,119.4,0.4,1,,Partially cloudy,partly-cloudy-day,remote
+"Bhopal, Madhya Pradesh, India",2024-08-05T19:00:00,81.6,88.6,76,83.24,0,0,,0,0,17.2,9.4,218.5,1003,59.6,,97.4,0.4,0,,Partially cloudy,partly-cloudy-night,remote
+"Bhopal, Madhya Pradesh, India",2024-08-05T20:00:00,76.3,76.3,75.9,98.62,0,0,,0,0,17.7,10.3,180,1004.9,93.6,2.8,5.2,0,0,,Overcast,cloudy,"VABP,42667099999"
+"Bhopal, Madhya Pradesh, India",2024-08-05T21:00:00,78.9,78.9,75.8,90.37,0,0,,0,0,16.8,9.8,215.5,1005,85.7,,0,0,0,,Partially cloudy,partly-cloudy-night,remote
+"Bhopal, Madhya Pradesh, India",2024-08-05T22:00:00,78.7,78.7,75.5,89.83,0,0,,0,0,17.4,10.3,218.3,1006,84.2,,0,0,0,,Partially cloudy,partly-cloudy-night,remote
+"Bhopal, Madhya Pradesh, India",2024-08-05T23:00:00,75.9,75.9,75,97.25,0,0,,0,0,17.7,10.3,160,1006.7,93.6,2.8,0,0,0,,Overcast,cloudy,"VABP,42667099999"
+"Bhopal, Madhya Pradesh, India",2024-08-06T00:00:00,77.6,77.6,75.3,92.53,0,0,,0,0,17.2,9.2,226.8,1006,98.7,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-06T01:00:00,77.6,77.6,74.9,91.42,0,0,,0,0,17,9.4,228.1,1006,100,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-06T02:00:00,76.4,76.4,74.6,94.18,0,0,,0,0,17.4,6.9,180,1003.8,100,2.5,0,0,0,,Overcast,cloudy,42667099999
+"Bhopal, Madhya Pradesh, India",2024-08-06T03:00:00,77.3,77.3,74.2,90.31,0,0,,0,0,18.1,9.8,231.1,1005,100,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-06T04:00:00,76.4,76.4,74,92.49,0,0,,0,0,18.6,10.1,235.6,1004,100,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-06T05:00:00,76.4,76.4,74.9,95.32,0,0,,0,0,18.1,9.2,200,1003.2,100,2.5,0,0,0,,Overcast,cloudy,42667099999
+"Bhopal, Madhya Pradesh, India",2024-08-06T06:00:00,77.1,77.1,73.7,89.22,0,0,,0,0,17,8.7,239.9,1004,100,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-06T07:00:00,77.1,77.1,73.7,89.22,0,0,,0,0,15.7,8.1,240.5,1004,100,,8.4,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-06T08:00:00,76.1,76.1,75,96.57,0,0,,0,0,15.4,9,200,1004.9,93.6,2.8,60,0.2,1,,Overcast,cloudy,"VABP,42672099999,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-06T09:00:00,77.3,77.3,73.5,88.16,0,0,,0,0,22.6,12.5,253.2,1005,94.7,,146.9,0.5,1,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-06T10:00:00,77.3,77.3,73.1,87.1,0,0,,0,0,24.6,10.7,252.3,1005,71.8,,231.8,0.8,2,,Partially cloudy,partly-cloudy-day,remote
+"Bhopal, Madhya Pradesh, India",2024-08-06T11:00:00,79.3,79.3,76.4,90.91,0,0,,0,0,26.8,9.1,200,1005.6,93.6,2.8,353,1.3,4,,Overcast,cloudy,"VABP,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-06T12:00:00,81.8,89,76.2,83.25,0,0,,0,0,25.7,8.9,249.2,1005,90.4,,517.7,1.9,5,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-06T13:00:00,81.6,88.8,76.4,84.24,0,0,,0,0,24.6,8.9,251.8,1004,100,,487.9,1.8,5,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-06T14:00:00,84.5,98.7,80.5,87.95,0.079,100,rain,0,0,23.9,10.2,205,1003.1,88.8,3.1,503,1.8,5,,"Rain, Partially cloudy",rain,"VABP,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-06T15:00:00,84.8,96.1,77.8,79.58,0,0,,0,0,24.2,9.4,256,1003,99.8,,478.7,1.7,5,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-06T16:00:00,84.6,94.1,76.2,75.86,0,0,,0,0,25.3,9.6,262.2,1003,100,,432.6,1.6,4,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-06T17:00:00,83.3,94.4,79,87.08,0,0,,0,0,25.5,10.1,230,1001.4,88.4,3.1,374.9,1.3,4,,Partially cloudy,partly-cloudy-day,"VABP,42672099999,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-06T18:00:00,82.8,90.9,76,79.91,0,0,,0,0,22.4,7.4,241.3,1002,100,,202.2,0.7,2,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-06T19:00:00,82.7,90.6,76,80.37,0,0,,0,0,16.3,6.9,235.6,1002,100,,52.7,0.2,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-06T20:00:00,78.1,78.1,76,93.31,0,0,,0,0,13.9,5.8,180,1004.5,88.9,2.8,4.2,0,0,,Partially cloudy,partly-cloudy-night,"VABP,42667099999"
+"Bhopal, Madhya Pradesh, India",2024-08-06T21:00:00,78.5,78.5,75.5,90.36,0,0,,0,0,12.8,6.7,240.1,1004,100,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-06T22:00:00,78.3,78.3,75.3,90.35,0,0,,0,0,10.7,6,239.2,1005,100,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-06T23:00:00,76.3,76.3,74.6,94.57,0,0,,0,0,13.2,6.9,200,1005.5,54.6,2.8,0,0,0,,Partially cloudy,partly-cloudy-night,"VABP,42667099999"
+"Bhopal, Madhya Pradesh, India",2024-08-07T00:00:00,77.4,77.4,74.7,91.41,0,0,,0,0,11.9,7.2,241.3,1005,100,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-07T01:00:00,77.3,77.3,74.2,90.31,0,0,,0,0,13.6,7.6,242.5,1005,100,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-07T02:00:00,75.8,75.8,73.7,93.03,0,0,,0,0,13.9,6.9,200,1002.9,60,2.5,0,0,0,,Partially cloudy,partly-cloudy-night,42667099999
+"Bhopal, Madhya Pradesh, India",2024-08-07T03:00:00,76.7,76.7,73.3,89.21,0,0,,0,0,13.9,7.6,247.2,1004,100,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-07T04:00:00,76.2,76.2,72.9,89.73,0,0,,0,0,13.4,6,246,1004,99.9,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-07T05:00:00,74.7,74.7,73.5,95.88,0,0,,0,0,12.8,9.2,205,1003.8,54.6,2.8,0,0,0,,Partially cloudy,partly-cloudy-night,"VABP,42667099999"
+"Bhopal, Madhya Pradesh, India",2024-08-07T06:00:00,77.3,77.3,73.5,88.16,0.004,100,rain,0,0,13,6.9,252.6,1004,100,,0,0,0,,"Rain, Overcast",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-07T07:00:00,77.1,77.1,73.5,88.68,0.028,100,rain,0,0,13.2,6.5,257.1,1004,100,,1.9,0,0,,"Rain, Overcast",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-07T08:00:00,76.1,76.1,74.9,95.94,0,0,,0,0,13,11.2,219,1005.5,93.7,2.8,16.2,0.1,0,,Overcast,cloudy,"VABP,42672099999,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-07T09:00:00,76.9,76.9,74.2,91.4,0.008,100,rain,0,0,14.8,7.6,257.2,1005,99.7,,43.4,0.2,0,,"Rain, Overcast",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-07T10:00:00,76.9,76.9,74.6,92.5,0.004,100,rain,0,0,15.9,8.1,258.7,1006,100,,98.6,0.4,1,,"Rain, Overcast",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-07T11:00:00,81.4,89.5,77.9,89.09,0,0,,0,0,16.6,11.4,259,1005.4,93.6,2.8,99.9,0.4,1,,Overcast,cloudy,"VABP,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-07T12:00:00,78.9,78.9,76,90.92,0.028,100,rain,0,0,17.4,9.2,272,1006,100,,74.2,0.3,1,,"Rain, Overcast",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-07T13:00:00,80,80,76.4,88.81,0,0,,0,0,19,8.7,272.9,1005,100,,297.6,1.1,3,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-07T14:00:00,82.7,93,78.9,88.36,0,0,,0,0,19,13.8,230,1003.4,93.5,2.8,233.9,0.8,2,,Overcast,cloudy,"VABP,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-07T15:00:00,80.7,87,76.4,86.75,0,0,,0,0,18.3,6.3,261.3,1004,100,,253.2,0.9,3,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-07T16:00:00,81.2,87.1,74.7,80.75,0,0,,0,0,18.3,8.3,271.3,1003,100,,252,0.9,3,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-07T17:00:00,81.6,90.4,78.7,90.99,0,0,,0,0,17.7,9,230,1003.3,93.6,2.8,239.8,0.9,2,,Overcast,cloudy,"VABP,42672099999,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-07T18:00:00,82.1,88.5,74.4,77.49,0.004,100,rain,0,0,16.6,5.1,275.8,1003,100,,136,0.5,1,,"Rain, Overcast",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-07T19:00:00,81.9,88.3,74.6,78.41,0,0,,0,0,11.4,3.6,261.8,1003,100,,38,0.1,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-07T20:00:00,78.3,78.3,76,92.54,0,0,,0,0,8.1,10.3,285,1005,88.9,2.5,2.9,0,0,,Partially cloudy,partly-cloudy-night,"VABP,42667099999"
+"Bhopal, Madhya Pradesh, India",2024-08-07T21:00:00,79.2,79.2,75.1,87.19,0.035,100,rain,0,0,8.9,5.4,246,1005,100,,0,0,0,,"Rain, Overcast",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-07T22:00:00,78,78,74.9,90.34,0.008,100,rain,0,0,10.1,5.1,246.8,1005,99.1,,0,0,0,,"Rain, Overcast",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-07T23:00:00,76,76,74,93.51,0,0,,0,0,11.9,10.3,230,1006.3,88.9,2.5,0,0,0,,Partially cloudy,partly-cloudy-night,"VABP,42667099999"
+"Bhopal, Madhya Pradesh, India",2024-08-08T00:00:00,77.1,77.1,74.2,90.85,0,0,,0,0,12.3,5.8,257.7,1006,100,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-08T01:00:00,76.9,76.9,74,90.85,0,0,,0,0,12.3,6.3,263.4,1005,99.9,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-08T02:00:00,76.7,76.7,71.9,84.98,0,0,,0,0,12.8,6.9,290,1004.5,90,2.5,0,0,0,,Partially cloudy,partly-cloudy-night,42667099999
+"Bhopal, Madhya Pradesh, India",2024-08-08T03:00:00,75.8,75.8,73.5,92.47,0,0,,0,0,13.4,7.2,272.3,1005,100,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-08T04:00:00,74.9,74.9,73.1,94.14,0,0,,0,0,13.9,7.2,279.3,1004,100,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-08T05:00:00,74.5,74.5,73.4,96.42,0,0,,0,0,14.3,9.2,235,1004.7,88.9,2.5,0,0,0,,Partially cloudy,partly-cloudy-night,"VABP,42667099999"
+"Bhopal, Madhya Pradesh, India",2024-08-08T06:00:00,75.6,75.6,72.9,91.35,0,0,,0,0,15.4,8.5,281,1004,100,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-08T07:00:00,75.6,75.6,73.1,91.91,0,0,,0,0,15.9,8.3,281.7,1005,99.8,,5.5,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-08T08:00:00,74.4,74.4,73.2,96.28,0,0,,0,0,17,9,230,1005.9,89.1,1.6,71.9,0.3,1,,Partially cloudy,partly-cloudy-day,"VABP,42672099999,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-08T09:00:00,76.7,76.7,73.8,90.84,0,0,,0,0,17.7,10.7,285.5,1006,100,,152.1,0.5,2,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-08T10:00:00,77.3,77.3,74.4,90.86,0,0,,0,0,19.2,9.2,284.1,1007,100,,301.5,1.1,3,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-08T11:00:00,77.7,77.7,75.8,94.05,0,0,,0,0,21.9,10.3,230,1006.8,93.6,1.6,610.2,2.2,6,,Overcast,cloudy,"VABP,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-08T12:00:00,80.9,86.7,75.3,83.19,0,0,,0,0,23,9.6,286.1,1006,99.8,,511.2,1.8,5,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-08T13:00:00,79.8,79.8,75.5,86.7,0,0,,0,0,21.9,9.8,282.4,1006,100,,293.5,1.1,3,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-08T14:00:00,74.3,74.3,73.5,97.44,0.039,100,rain,0,0,21.3,9.1,250,1005.4,93.6,1,298.9,1.1,3,,"Rain, Overcast",rain,"VABP,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-08T15:00:00,80.1,85.2,74.9,84.15,0,0,,0,0,19.9,9.6,280.5,1005,100,,146.2,0.5,1,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-08T16:00:00,79.1,79.1,75.3,88.24,0,0,,0,0,16.3,6.5,263.4,1004,100,,157,0.6,2,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-08T17:00:00,77.5,77.5,74.9,91.61,0,0,,0,0,15,6.8,200,1004.9,93.7,2.5,91.9,0.3,1,,Overcast,cloudy,"VABP,42672099999,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-08T18:00:00,78.7,78.7,75.1,88.75,0,0,,0,0,13.4,5.8,248.6,1005,100,,51.3,0.2,1,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-08T19:00:00,78.7,78.7,74.9,88.22,0,0,,0,0,12.8,5.6,239.1,1005,100,,21.2,0.1,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-08T20:00:00,76.1,76.1,75.4,97.8,0,0,,0,0,12.1,5.8,180,1006.5,93.6,2.5,1.5,0,0,,Overcast,cloudy,"VABP,42667099999"
+"Bhopal, Madhya Pradesh, India",2024-08-08T21:00:00,76.4,76.4,74.6,94.18,0,0,,0,0,11,5.4,231.2,1006,100,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-08T22:00:00,76.2,76.2,74.4,94.17,0,0,,0,0,9.4,5.4,242.6,1007,100,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-08T23:00:00,75.9,75.9,75,97.25,0,0,,0,0,9.2,7.5,175,1007.7,93.6,1.6,0,0,0,,Overcast,cloudy,"VABP,42667099999"
+"Bhopal, Madhya Pradesh, India",2024-08-09T00:00:00,75.6,75.6,74.4,95.88,0.024,100,rain,0,0,12.1,6.5,251.8,1007,100,,0,0,0,,"Rain, Overcast",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-09T01:00:00,75.5,75.5,74,95.3,0.012,100,rain,0,0,13,6.9,251.8,1007,100,,0,0,0,,"Rain, Overcast",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-09T02:00:00,76.4,76.4,74.6,94.18,0,0,,0,0,13.4,6.9,180,1004.4,100,1.2,0,0,0,,Overcast,cloudy,42667099999
+"Bhopal, Madhya Pradesh, India",2024-08-09T03:00:00,75.1,75.1,73.8,95.87,0.008,100,rain,0,0,13.2,7.2,254.1,1006,100,,0,0,0,,"Rain, Overcast",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-09T04:00:00,74.6,74.6,73.1,95.28,0.012,100,rain,0,0,14.1,6.7,268.6,1006,100,,0,0,0,,"Rain, Overcast",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-09T05:00:00,75.8,75.8,74.4,95.31,0,0,,0,0,13.9,6.9,200,1004.7,100,1.2,0,0,0,,Overcast,cloudy,42667099999
+"Bhopal, Madhya Pradesh, India",2024-08-09T06:00:00,75.6,75.6,73.1,91.91,0.02,100,rain,0,0,13.6,6.5,274.4,1006,100,,0,0,0,,"Rain, Overcast",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-09T07:00:00,75.6,75.6,73.1,91.91,0.02,100,rain,0,0,12.8,5.8,275.8,1007,99.5,,4.4,0,0,,"Rain, Overcast",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-09T08:00:00,75.9,75.9,73.7,92.8,0,0,,0,0,12.3,9,230,1007.9,93.7,1.6,28.9,0.1,0,,Overcast,cloudy,"VABP,42672099999,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-09T09:00:00,75.8,75.8,73.5,92.47,0.043,100,rain,0,0,12.8,6.5,283,1008,100,,50.7,0.2,1,,"Rain, Overcast",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-09T10:00:00,75.3,75.3,73.1,93.02,0.055,100,rain,0,0,13.6,6.5,273.1,1008,100,,38.3,0.1,0,,"Rain, Overcast",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-09T11:00:00,79.6,79.6,75.6,87.45,0,0,,0,0,13.2,9.1,200,1007.7,73.3,2.8,94.1,0.3,1,,Partially cloudy,partly-cloudy-day,"VABP,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-09T12:00:00,78.7,78.7,75.6,90.37,0.039,100,rain,0,0,13.6,6,265.4,1008,100,,159.7,0.6,2,,"Rain, Overcast",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-09T13:00:00,78.5,78.5,75.5,90.36,0.004,100,rain,0,0,13.2,6.3,255.5,1007,100,,334.2,1.2,3,,"Rain, Overcast",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-09T14:00:00,79.2,79.2,75.8,89.45,0,0,,0,0,14.8,11.4,180,1006.5,93.6,2.8,423.8,1.5,4,,Overcast,cloudy,"VABP,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-09T15:00:00,79.6,79.6,76.6,90.4,0.008,100,rain,0,0,15,7.2,239.9,1006,99.3,,323.5,1.2,3,,"Rain, Overcast",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-09T16:00:00,79.6,79.6,75.1,86.17,0.004,100,rain,0,0,15.9,6.7,233.5,1006,99.1,,293.9,1.1,3,,"Rain, Overcast",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-09T17:00:00,79.7,79.7,77.2,92.04,0,0,,0,0,16.6,11.2,180,1005.5,88.2,3.2,241,0.9,2,,Partially cloudy,partly-cloudy-day,"VABP,42672099999,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-09T18:00:00,79.8,79.8,74.9,85.15,0.008,100,rain,0,0,15.4,7.8,241.6,1005,99.6,,93.6,0.3,1,,"Rain, Overcast",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-09T19:00:00,79.8,79.8,74.7,84.64,0,0,,0,0,15.2,7.2,240.7,1005,100,,47.4,0.2,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-09T20:00:00,76.3,76.3,74.9,95.37,0,0,,0,0,14.1,6.9,230,1006.8,88.9,2.8,4.3,0,0,,Partially cloudy,partly-cloudy-night,"VABP,42667099999"
+"Bhopal, Madhya Pradesh, India",2024-08-09T21:00:00,76.4,76.4,74,92.49,0,0,,0,0,12.5,6.7,242,1007,99,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-09T22:00:00,76.2,76.2,73.8,92.48,0,0,,0,0,12.1,6.7,243.9,1008,99.9,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-09T23:00:00,74.5,74.5,73.4,96.42,0,0,,0,0,12.1,5.8,200,1007.9,88.9,2.8,0,0,0,,Partially cloudy,partly-cloudy-night,"VABP,42667099999"
+"Bhopal, Madhya Pradesh, India",2024-08-10T00:00:00,75.6,75.6,73.8,94.16,0,0,,0,0,12.3,7.2,245.6,1007,100,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-10T01:00:00,75.3,75.3,73.7,94.72,0,0,,0,0,12.8,6.5,246.9,1007,99.9,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-10T02:00:00,75.5,75.5,73.5,93.59,0,0,,0,0,11.6,6.9,200,1005,90,2.5,0,0,0,,Partially cloudy,partly-cloudy-night,42667099999
+"Bhopal, Madhya Pradesh, India",2024-08-10T03:00:00,75.3,75.3,73.7,94.72,0,0,,0,0,11.4,6.7,246.8,1006,100,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-10T04:00:00,75.3,75.3,73.5,94.15,0,0,,0,0,12.1,6,250.7,1006,100,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-10T05:00:00,74.2,74.2,73.4,97.23,0,0,,0,0,11.9,8.1,180,1006.1,88.9,2.5,0,0,0,,Partially cloudy,partly-cloudy-night,"VABP,42667099999"
+"Bhopal, Madhya Pradesh, India",2024-08-10T06:00:00,76,76,73.7,92.48,0,0,,0,0,11.2,5.6,267.3,1006,100,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-10T07:00:00,75.8,75.8,73.8,93.6,0,0,,0,0,10.1,4.9,274.9,1007,100,,2.1,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-10T08:00:00,76.1,76.1,74.9,96.09,0,0,,0,0,9.4,6.8,250,1007.6,93.7,1.9,16.7,0.1,0,,Overcast,cloudy,"VABP,42672099999,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-10T09:00:00,75.8,75.8,74,94.16,0,0,,0,0,10.3,4.9,283.5,1007,100,,59.8,0.2,1,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-10T10:00:00,75.5,75.5,73.8,94.73,0,0,,0,0,10.7,5.4,277.4,1007,100,,91.2,0.3,1,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-10T11:00:00,79.3,79.3,76,89.63,0,0,,0,0,11.4,9.1,230,1007.6,73.4,2.8,84.3,0.3,1,,Partially cloudy,partly-cloudy-day,"VABP,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-10T12:00:00,76.7,76.7,74.7,93.62,0,0,,0,0,13.9,7.6,267.9,1007,100,,128.9,0.5,1,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-10T13:00:00,76.7,76.7,74.7,93.62,0,0,,0,0,17.9,8.7,263.8,1007,100,,177.2,0.6,2,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-10T14:00:00,83,94.3,79.3,88.5,0,0,,0,0,19.5,9.1,241,1004.7,89,2.8,90.3,0.3,1,,Partially cloudy,partly-cloudy-day,"VABP,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-10T15:00:00,77.8,77.8,76.9,97.07,0,0,,0,0,23.3,10.3,252.7,1005,100,,162.6,0.6,2,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-10T16:00:00,79.1,79.1,75.3,88.24,0,0,,0,0,25.1,10.7,264.3,1005,99.8,,216.3,0.8,2,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-10T17:00:00,79.7,79.7,78.2,95.18,0.157,100,rain,0,0,21.3,6.8,191,1003.7,88.5,1.6,136.3,0.5,1,,"Rain, Partially cloudy",rain,"VABP,42672099999,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-10T18:00:00,79.6,79.6,75.5,87.21,0,0,,0,0,21,8.5,246.6,1004,96,,53.9,0.2,1,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-10T19:00:00,79.6,79.6,75.5,87.21,0,0,,0,0,19.5,8.9,250.1,1004,98.3,,32.4,0.1,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-10T20:00:00,76.1,76.1,75.4,97.8,0,0,,0,0,18.3,6.9,185,1005.7,84.3,2.5,2.1,0,0,,Partially cloudy,partly-cloudy-night,"VABP,42667099999"
+"Bhopal, Madhya Pradesh, India",2024-08-10T21:00:00,76.2,76.2,74.4,94.17,0,0,,0,0,17.2,8.5,270.3,1006,98.7,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-10T22:00:00,76,76,74.2,94.17,0,0,,0,0,15.4,7.6,267.5,1006,96.6,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-10T23:00:00,75,75,74.9,99.44,0,0,,0,0,13.9,9.2,225,1006.8,88.9,2.5,0,0,0,,Partially cloudy,partly-cloudy-night,"VABP,42667099999"
+"Bhopal, Madhya Pradesh, India",2024-08-11T00:00:00,75.5,75.5,73.8,94.73,0,0,,0,0,14.1,7.8,246.5,1006,100,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-11T01:00:00,75.5,75.5,73.7,94.16,0,0,,0,0,14.3,7.8,248.8,1006,99.2,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-11T02:00:00,73.1,73.1,72.8,98.79,0,0,,0,0,14.3,9.2,230,1004.6,90,2.5,0,0,0,,Partially cloudy,partly-cloudy-night,42667099999
+"Bhopal, Madhya Pradesh, India",2024-08-11T03:00:00,74.6,74.6,73.1,95.28,0,0,,0,0,14.5,7.8,254.7,1005,100,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-11T04:00:00,74.9,74.9,73.5,95.29,0,0,,0,0,14.5,7.8,260.4,1004,100,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-11T05:00:00,73.6,73.6,73.5,99.44,0,0,,0,0,13.2,5.8,230,1004.1,88.9,1.6,0,0,0,,Partially cloudy,partly-cloudy-night,"VABP,42667099999"
+"Bhopal, Madhya Pradesh, India",2024-08-11T06:00:00,75.8,75.8,73.7,93.03,0,0,,0,0,13.2,7.6,252,1004,100,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-11T07:00:00,75.6,75.6,73.8,94.16,0,0,,0,0,13.4,7.2,253.1,1004,100,,1.7,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-11T08:00:00,75.5,75.5,74.1,95.43,0,0,,0,0,13.6,7.3,205,1005.7,93.7,1.3,18.6,0.1,0,,Overcast,cloudy,"VABP,42672099999,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-11T09:00:00,75.6,75.6,74.6,96.46,0,0,,0,0,13.6,8.5,261.4,1005,100,,21.2,0.1,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-11T10:00:00,75.5,75.5,74.6,97.04,0,0,,0,0,13.9,7.6,256.9,1006,100,,41,0.1,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-11T11:00:00,77.8,77.8,75.8,93.57,0,0,,0,0,17.4,8.5,219,1005.5,93.6,2.1,87.1,0.3,1,,Overcast,cloudy,"VABP,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-11T12:00:00,78.2,78.2,76.4,94.22,0,0,,0,0,20.1,7.8,262.2,1006,100,,129.8,0.5,1,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-11T13:00:00,77.8,77.8,76,94.21,0,0,,0,0,17.2,8.5,268.2,1005,100,,167.2,0.6,2,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-11T14:00:00,76,76,75.4,98.08,0.039,100,rain,0,0,17.7,9.1,200,1004,93.6,1.6,136,0.5,1,,"Rain, Overcast",rain,"VABP,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-11T15:00:00,78.9,78.9,76.7,93.12,0,0,,0,0,17,8.5,262.2,1004,100,,90.1,0.3,1,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-11T16:00:00,79.2,79.2,75.5,88.25,0,0,,0,0,15.2,6.3,269.2,1003,100,,117.2,0.4,1,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-11T17:00:00,79.6,79.6,77.5,93.18,0,0,,0,0,14.8,11.2,230,1002.6,83.8,3.1,97.1,0.3,1,,Partially cloudy,partly-cloudy-day,"VABP,42672099999,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-11T18:00:00,80.3,85.7,75.3,84.67,0,0,,0,0,14.5,7.6,264.7,1003,98.4,,82.6,0.3,1,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-11T19:00:00,80.5,86,75.3,84.18,0,0,,0,0,14.1,6.3,268,1003,99.3,,39,0.1,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-11T20:00:00,76.1,76.1,75.4,97.8,0,0,,0,0,11.6,5.8,200,1004.7,84.3,2.8,2.4,0,0,,Partially cloudy,partly-cloudy-night,"VABP,42667099999"
+"Bhopal, Madhya Pradesh, India",2024-08-11T21:00:00,77.4,77.4,75.3,93.08,0,0,,0,0,9.4,6,268,1004,99.1,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-11T22:00:00,77.1,77.1,74.9,93.07,0,0,,0,0,9.4,5.4,257.3,1005,99.3,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-11T23:00:00,76,76,75.2,97.25,0,0,,0,0,9.8,4.7,200,1005.5,84.3,2.8,0,0,0,,Partially cloudy,partly-cloudy-night,"VABP,42667099999"
+"Bhopal, Madhya Pradesh, India",2024-08-12T00:00:00,76.9,76.9,74.7,93.06,0,0,,0,0,11,6.3,249.2,1005,99,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-12T01:00:00,76.7,76.7,74.4,92.5,0,0,,0,0,11.2,5.8,248.8,1005,100,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-12T02:00:00,76.4,76.4,74,92.49,0,0,,0,0,10.7,5.8,251.3,1004,100,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-12T03:00:00,76.4,76.4,73.8,91.93,0,0,,0,0,11,6.3,255,1004,100,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-12T04:00:00,75.1,75.1,73.5,94.72,0,0,,0,0,11.2,6.9,262,1004,96,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-12T05:00:00,73.3,73.3,73.3,100,0,0,,0,0,12.8,5.8,180,1006,88,1.9,0,0,0,,Partially cloudy,partly-cloudy-night,VABP
+"Bhopal, Madhya Pradesh, India",2024-08-12T06:00:00,76.7,76.7,73.5,89.75,0,0,,0,0,14.5,6.3,260.9,1004,86.6,,0,0,0,,Partially cloudy,partly-cloudy-day,remote
+"Bhopal, Madhya Pradesh, India",2024-08-12T07:00:00,76.7,76.7,73.5,89.75,0.004,100,rain,0,0,14.8,6,252.1,1005,94,,4.3,0,0,,"Rain, Overcast",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-12T08:00:00,76.9,76.9,75.1,94.19,0.004,100,rain,0,0,14.8,9.2,200,1007,88,2.5,33.5,0.1,0,,"Rain, Partially cloudy",rain,VABP
+"Bhopal, Madhya Pradesh, India",2024-08-12T09:00:00,77.4,77.4,74.2,89.78,0.004,100,rain,0,0,14.1,6.9,231.2,1006,99.7,,69.8,0.3,1,,"Rain, Overcast",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-12T10:00:00,76.7,76.7,74.2,91.94,0.008,100,rain,0,0,15,7.6,231.4,1006,97.5,,91.6,0.3,1,,"Rain, Overcast",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-12T11:00:00,73.3,73.3,73.3,100,0.008,100,rain,0,0,16.6,11.4,200,1008,88,1.2,133.9,0.5,1,,"Rain, Partially cloudy",rain,VABP
+"Bhopal, Madhya Pradesh, India",2024-08-12T12:00:00,78.2,78.2,74.9,89.81,0.008,100,rain,0,0,19.7,9.4,248.4,1006,89.2,,248.9,0.9,2,,"Rain, Partially cloudy",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-12T13:00:00,78.2,78.2,74.7,89.27,0.004,100,rain,0,0,18.6,9.4,254.2,1005,86.3,,301.1,1.1,3,,"Rain, Partially cloudy",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-12T14:00:00,80.5,87.9,78.7,94.27,0.004,100,rain,0,0,19.5,8.1,200,1006,88,1.9,407.6,1.5,4,,"Rain, Partially cloudy",rain,VABP
+"Bhopal, Madhya Pradesh, India",2024-08-12T15:00:00,82.5,90.7,76.6,82.31,0.008,100,rain,0,0,19.7,8.5,261.1,1004,84.9,,436.6,1.6,4,,"Rain, Partially cloudy",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-12T16:00:00,83.7,93.1,76.7,79.5,0.004,100,rain,0,0,20.1,9.2,269.8,1003,74,,419.1,1.5,4,,"Rain, Partially cloudy",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-12T17:00:00,80.5,89,80.5,100,0.004,100,rain,0,0,20.6,5.8,200,1005,88,3.7,339,1.2,3,,"Rain, Partially cloudy",rain,VABP
+"Bhopal, Madhya Pradesh, India",2024-08-12T18:00:00,82.7,91,76.6,81.83,0.008,100,rain,0,0,19,7.4,265.9,1003,76.6,,149.1,0.5,1,,"Rain, Partially cloudy",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-12T19:00:00,82.5,90.4,76.2,81.33,0.004,100,rain,0,0,13,5.1,270.1,1003,90.3,,78.4,0.3,0,,"Rain, Overcast",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-12T20:00:00,75.1,75.1,75.1,100,0.004,100,rain,0,0,10.3,6.9,160,1007,88,3.1,3,0,0,,"Rain, Partially cloudy",rain,VABP
+"Bhopal, Madhya Pradesh, India",2024-08-12T21:00:00,78.7,78.7,75.5,89.83,0,0,,0,0,7.8,4.5,252.4,1004,94.9,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-12T22:00:00,78.3,78.3,74.7,88.74,0.008,100,rain,0,0,8.3,4.3,241.9,1006,93,,0,0,0,,"Rain, Overcast",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-12T23:00:00,75.1,75.1,75.1,100,0,0,,0,0,8.9,5.8,180,1008,88,3.1,0,0,0,,Partially cloudy,partly-cloudy-night,VABP
+"Bhopal, Madhya Pradesh, India",2024-08-13T00:00:00,77.1,77.1,75.1,93.63,0,0,,0,0,9.4,5.1,246.4,1006,98.3,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-13T01:00:00,76.7,76.7,75.1,94.75,0,0,,0,0,10.5,5.8,245.3,1006,98,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-13T02:00:00,74.6,74.6,72.8,94.13,0.63,100,rain,0,0,11.2,5.8,180,1004.3,80,2.5,0,0,0,,"Rain, Partially cloudy",rain,42667099999
+"Bhopal, Madhya Pradesh, India",2024-08-13T03:00:00,76.4,76.4,74.7,94.74,0,0,,0,0,11.4,6.3,236.6,1005,99.9,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-13T04:00:00,75.6,75.6,74.4,95.88,0,0,,0,0,11,5.8,250.1,1005,99.8,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-13T05:00:00,75.5,75.5,74.6,97.04,0,0,,0,0,11,5.8,180,1004.7,90,2.5,0,0,0,,Partially cloudy,partly-cloudy-night,42667099999
+"Bhopal, Madhya Pradesh, India",2024-08-13T06:00:00,76.7,76.7,74.2,91.94,0,0,,0,0,10.7,5.4,254.1,1006,100,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-13T07:00:00,76.9,76.9,74,90.85,0,0,,0,0,11.4,5.1,244.1,1006,100,,7,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-13T08:00:00,77.4,77.4,75,92.3,0,0,,0,0,15.7,7.7,200,1006,90.4,2.5,79.9,0.3,1,,Overcast,cloudy,"42672099999,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-13T09:00:00,78.2,78.2,73.8,86.62,0,0,,0,0,17.4,8.1,257,1007,100,,140.4,0.5,1,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-13T10:00:00,78.2,78.2,73.8,86.62,0,0,,0,0,17.2,6.9,255.1,1008,100,,190.8,0.7,2,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-13T11:00:00,80.8,87.8,77.4,89.23,0,0,,0,0,16.8,10.3,225,1007.6,88.9,2.5,290.5,1,3,,Partially cloudy,partly-cloudy-day,"VABP,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-13T12:00:00,82.3,90.1,76.2,81.8,0,0,,0,0,17.2,7.2,253.7,1007,97.9,,430.6,1.6,4,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-13T13:00:00,82.7,91.2,76.7,82.32,0,0,,0,0,14.8,6.7,255.9,1007,90.7,,351.5,1.3,4,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-13T14:00:00,84.2,97.2,79.7,86.47,0,0,,0,0,13.9,5.8,200,1006,88.9,2.8,232.3,0.8,2,,Partially cloudy,partly-cloudy-day,"VABP,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-13T15:00:00,84.6,96.2,78.2,81,0,0,,0,0,13,6.5,240.8,1005,95.7,,216,0.8,2,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-13T16:00:00,84.3,93.3,76,76.28,0,0,,0,0,16.1,7.8,251.6,1004,50,,400.3,1.4,4,,Partially cloudy,partly-cloudy-day,remote
+"Bhopal, Madhya Pradesh, India",2024-08-13T17:00:00,83.5,96.1,80.1,89.48,0,0,,0,0,17,7.9,230,1004.2,83.7,3.2,299.4,1.1,3,,Partially cloudy,partly-cloudy-day,"VABP,42672099999,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-13T18:00:00,82.7,91.2,76.7,82.32,0,0,,0,0,16.6,6.5,272.6,1004,84.2,,154.9,0.6,2,,Partially cloudy,partly-cloudy-day,remote
+"Bhopal, Madhya Pradesh, India",2024-08-13T19:00:00,83.2,92.2,76.7,80.89,0,0,,0,0,13,4.3,275.8,1004,92.6,,59.8,0.2,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-13T20:00:00,77.8,77.8,77.1,97.54,0,0,,0,0,8.7,6.9,180,1006.7,84.3,3.2,3.6,0,0,,Partially cloudy,partly-cloudy-night,"VABP,42667099999"
+"Bhopal, Madhya Pradesh, India",2024-08-13T21:00:00,79.4,79.4,77.3,93.13,0,0,,0,0,4.7,2.7,233.8,1006,95.6,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-13T22:00:00,79.6,79.6,77.1,92.03,0,0,,0,0,4.5,3.1,227.2,1007,99.1,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-13T23:00:00,77.5,77.5,75.9,94.73,0,0,,0,0,5.4,5.8,180,1007.7,84.3,2.8,0,0,0,,Partially cloudy,partly-cloudy-night,"VABP,42667099999"
+"Bhopal, Madhya Pradesh, India",2024-08-14T00:00:00,78.9,78.9,77.1,94.24,0,0,,0,0,6.7,4.9,234.8,1007,97.7,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-14T01:00:00,78.9,78.9,76.9,93.67,0,0,,0,0,9.4,5.4,241.7,1006,100,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-14T02:00:00,77.6,77.6,76.4,95.91,0,0,,0,0,9.6,6.9,200,1005.9,80,2.5,0,0,0,,Partially cloudy,partly-cloudy-night,42667099999
+"Bhopal, Madhya Pradesh, India",2024-08-14T03:00:00,78.2,78.2,76.6,94.78,0,0,,0,0,10.3,5.8,255.4,1006,100,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-14T04:00:00,77.1,77.1,75.3,94.19,0,0,,0,0,10.5,5.1,263.7,1006,100,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-14T05:00:00,76.4,76.4,75.3,96.47,0,0,,0,0,11,4.7,200,1005.3,80,1.2,0,0,0,,Partially cloudy,partly-cloudy-night,42667099999
+"Bhopal, Madhya Pradesh, India",2024-08-14T06:00:00,78.2,78.2,74.4,88.2,0,0,,0,0,11,6,279.5,1006,100,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-14T07:00:00,77.8,77.8,74.2,88.72,0,0,,0,0,11.6,6.5,279.2,1007,99.7,,7.2,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-14T08:00:00,76.1,76.1,75.3,97.41,0,0,,0,0,13.2,7.9,250,1008.6,88.9,1.6,100,0.4,1,,Partially cloudy,partly-cloudy-day,"VABP,42672099999,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-14T09:00:00,79.2,79.2,74.6,85.63,0,0,,0,0,18.6,8.7,285.7,1008,100,,249.8,0.9,2,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-14T10:00:00,79.8,79.8,75.1,85.66,0,0,,0,0,17.9,7.4,285.6,1008,99.7,,399.7,1.4,4,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-14T11:00:00,81.1,89.2,78.5,91.82,0,0,,0,0,16.6,9.1,235,1008.5,89,2.5,413.6,1.5,4,,Partially cloudy,partly-cloudy-day,"VABP,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-14T12:00:00,84.6,96,78,80.52,0,0,,0,0,17.9,6.7,274.4,1008,100,,635.6,2.3,6,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-14T13:00:00,84.5,95.5,77.8,80.5,0.004,100,rain,0,0,18.1,5.6,268,1007,99.8,,780.5,2.8,8,,"Rain, Overcast",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-14T14:00:00,86.5,104.9,81.9,86.15,0,0,,0,0,17,9.1,225,1005.2,84.3,3.1,601.5,2.2,6,,Partially cloudy,partly-cloudy-day,"VABP,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-14T15:00:00,87.7,101.1,78,73.03,0,0,,0,0,17.2,6.3,261,1005,99.5,,673.8,2.4,7,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-14T16:00:00,86.1,97.4,77.1,74.64,0.02,100,rain,0,0,17,7.6,273.6,1003,100,,411.9,1.5,4,,"Rain, Overcast",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-14T17:00:00,85.3,101,80.9,86.64,0,0,,0,0,15,8.4,225,1004.1,83.7,3.2,242.2,0.9,2,,Partially cloudy,partly-cloudy-day,"VABP,42672099999,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-14T18:00:00,85.9,97.5,77.4,75.97,0.016,100,rain,0,0,12.3,4.5,269.7,1004,100,,165,0.6,2,,"Rain, Overcast",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-14T19:00:00,86.1,99.4,78.7,78.73,0,0,,0,0,8.3,4.3,254.2,1004,100,,47.8,0.2,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-14T20:00:00,81.5,90.7,79.2,92.63,0,0,,0,0,6.5,3.4,205,1006.2,88.9,3.2,2.5,0,0,,Partially cloudy,partly-cloudy-night,"VABP,42667099999"
+"Bhopal, Madhya Pradesh, India",2024-08-14T21:00:00,81.8,90.8,78.5,89.95,0.012,100,rain,0,0,8.1,4.9,232.3,1005,100,,0,0,0,,"Rain, Overcast",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-14T22:00:00,81.2,89.3,78.2,90.46,0.016,100,rain,0,0,7.4,4.3,234,1006,100,,0,0,0,,"Rain, Overcast",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-14T23:00:00,79.9,79.9,78.8,96.49,0,0,,0,0,6,3.4,180,1006.7,88.9,2.8,0,0,0,,Partially cloudy,partly-cloudy-night,"VABP,42667099999"
+"Bhopal, Madhya Pradesh, India",2024-08-15T00:00:00,80.3,87.1,78.2,93.16,0.016,100,rain,0,0,5.8,5.4,235.7,1006,100,,0,0,0,,"Rain, Overcast",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-15T01:00:00,79.8,79.8,77.6,93.14,0.047,100,rain,0,0,10.3,5.1,247.1,1006,100,,0,0,0,,"Rain, Overcast",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-15T02:00:00,79.1,79.1,76.7,92.57,0,0,,0,0,10.5,5.8,180,1004.2,90,2.5,0,0,0,,Partially cloudy,partly-cloudy-night,42667099999
+"Bhopal, Madhya Pradesh, India",2024-08-15T03:00:00,79.2,79.2,77.3,93.68,0.016,100,rain,0,0,10.5,6,274.3,1005,100,,0,0,0,,"Rain, Overcast",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-15T04:00:00,78.3,78.3,76.4,93.66,0.004,100,rain,0,0,10.7,5.1,292.9,1006,100,,0,0,0,,"Rain, Overcast",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-15T05:00:00,77.5,77.5,77,98.35,0,0,,0,0,11,3.4,250,1005.8,88.9,2.8,0,0,0,,Partially cloudy,partly-cloudy-night,"VABP,42667099999"
+"Bhopal, Madhya Pradesh, India",2024-08-15T06:00:00,78.2,78.2,75.6,91.99,0.004,100,rain,0,0,11.2,4.5,297.7,1006,100,,0,0,0,,"Rain, Overcast",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-15T07:00:00,78,78,75.5,91.98,0,0,,0,0,11.9,4.3,285.2,1006,100,,3.4,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-15T08:00:00,77.5,77.5,76.9,97.81,0,0,,0,0,13.6,7.9,225,1006.7,89.1,1.6,54.3,0.2,1,,Partially cloudy,partly-cloudy-day,"VABP,42672099999,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-15T09:00:00,78.3,78.3,75.6,91.44,0,0,,0,0,18.3,5.4,269.5,1007,100,,106.5,0.4,1,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-15T10:00:00,78.9,78.9,75.3,88.76,0.004,100,rain,0,0,19.5,5.8,262.7,1007,99.8,,224.9,0.8,2,,"Rain, Overcast",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-15T11:00:00,81.3,89.5,78.3,90.87,0,0,,0,0,19.7,9.1,230,1005.8,89,2.5,309.4,1.1,3,,Partially cloudy,partly-cloudy-day,"VABP,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-15T12:00:00,84.8,95.3,77.1,77.71,0.008,100,rain,0,0,19.2,6,270.3,1006,100,,397.9,1.4,4,,"Rain, Overcast",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-15T13:00:00,85.6,96.3,76.9,75.48,0.004,100,rain,0,0,15,5.8,260.6,1005,99.1,,404.2,1.5,4,,"Rain, Overcast",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-15T14:00:00,81.5,90,78.2,89.56,0,0,,0,0,15.2,5.8,250,1004.4,89,2.8,256,0.9,3,,Partially cloudy,partly-cloudy-day,"VABP,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-15T15:00:00,85.4,95.7,76.6,75.02,0.004,100,rain,0,0,15.9,6.3,247.2,1003,98.9,,413.8,1.5,4,,"Rain, Overcast",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-15T16:00:00,82.1,89.8,76.4,82.78,0.047,100,rain,0,0,17,7.8,242.4,1003,100,,323.2,1.2,3,,"Rain, Overcast",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-15T17:00:00,80.4,87.2,78.2,93.17,0,0,,0,0,15.7,5.7,270,1003.3,88.5,2.8,204.2,0.7,2,,Partially cloudy,partly-cloudy-day,"VABP,42672099999,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-15T18:00:00,80.9,87.6,76.9,87.8,0.035,100,rain,0,0,12.8,4,250.4,1003,100,,49.5,0.2,0,,"Rain, Overcast",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-15T19:00:00,81.1,88,76.9,87.28,0.012,100,rain,0,0,10.3,3.6,234.3,1003,100,,23.8,0.1,0,,"Rain, Overcast",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-15T20:00:00,78.2,78.2,76.2,93.66,0,0,,0,0,7.6,6.9,160,1003.5,80,2.5,1.4,0,0,,Partially cloudy,partly-cloudy-night,42667099999
+"Bhopal, Madhya Pradesh, India",2024-08-15T21:00:00,78,78,76.2,94.21,0.012,100,rain,0,0,8.3,3.6,230.7,1005,100,,0,0,0,,"Rain, Overcast",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-15T22:00:00,77.8,77.8,75.8,93.65,0.008,100,rain,0,0,8.3,4,244.8,1006,99.3,,0,0,0,,"Rain, Overcast",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-15T23:00:00,77.7,77.7,76.4,95.93,0,0,,0,0,8.7,4.7,205,1006.6,88.9,2.5,0,0,0,,Partially cloudy,partly-cloudy-night,"VABP,42667099999"
+"Bhopal, Madhya Pradesh, India",2024-08-16T00:00:00,77.6,77.6,75.6,93.64,0,0,,0,0,9.6,5.8,230.8,1006,100,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-16T01:00:00,77.4,77.4,75.5,93.64,0,0,,0,0,10.3,6,233.8,1005,99.4,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-16T02:00:00,74.9,74.9,74.6,98.8,0.039,100,rain,0,0,9.8,4.7,200,1004.2,100,1.2,0,0,0,,"Rain, Overcast",rain,42667099999
+"Bhopal, Madhya Pradesh, India",2024-08-16T03:00:00,76.7,76.7,74.9,94.18,0,0,,0,0,9.4,4.7,251,1004,88.1,,0,0,0,,Partially cloudy,partly-cloudy-night,remote
+"Bhopal, Madhya Pradesh, India",2024-08-16T04:00:00,76,76,74.6,95.31,0,0,,0,0,8.5,4.7,264.8,1003,94.7,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-16T05:00:00,76,76,75.3,97.52,0,0,,0,0,8.5,4.7,200,1003.8,93.6,1.6,0,0,0,,Overcast,cloudy,"VABP,42667099999"
+"Bhopal, Madhya Pradesh, India",2024-08-16T06:00:00,77.6,77.6,74.9,91.42,0,0,,0,0,8.7,3.8,240.4,1004,99.3,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-16T07:00:00,77.6,77.6,74.7,90.87,0,0,,0,0,9.6,5.1,242.2,1005,98.7,,7.4,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-16T08:00:00,78.8,78.8,76.7,93.13,0,0,,0,0,12.8,6.8,180,1005.6,89.1,2.5,85.3,0.3,1,,Partially cloudy,partly-cloudy-day,"VABP,42672099999,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-16T09:00:00,79.1,79.1,74.7,86.66,0,0,,0,0,17,7.2,270.6,1005,94.7,,209.7,0.8,2,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-16T10:00:00,79.8,79.8,74.7,84.64,0,0,,0,0,17,6.9,263.3,1006,95.9,,440.7,1.6,4,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-16T11:00:00,83.1,94.2,79.1,87.97,0,0,,0,0,15.9,8,200,1006.3,88.9,2.8,488,1.8,5,,Partially cloudy,partly-cloudy-day,"VABP,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-16T12:00:00,84.5,94.9,77.3,79.08,0,0,,0,0,15.9,6,245.8,1006,99.3,,536,1.9,5,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-16T13:00:00,84.5,94.7,77.1,78.61,0,0,,0,0,16.3,5.8,234.6,1005,99.3,,533.2,1.9,5,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-16T14:00:00,84.9,100.3,81.1,88.37,0,0,,0,0,15.9,10.2,180,1003.6,88.9,2.8,512.6,1.8,5,,Partially cloudy,partly-cloudy-day,"VABP,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-16T15:00:00,85.7,96,76.4,73.72,0,0,,0,0,13.4,6.7,235.5,1003,99.8,,394.5,1.4,4,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-16T16:00:00,83.7,91.5,74.9,74.87,0,0,,0,0,14.1,5.1,247,1002,96.4,,392.6,1.4,4,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-16T17:00:00,83.1,94.6,79.5,88.97,0,0,,0,0,15,6.8,180,1002.6,83.5,2.9,287.4,1,3,,Partially cloudy,partly-cloudy-day,"VABP,42672099999,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-16T18:00:00,84.3,92.7,75.3,74.47,0,0,,0,0,15.4,4.9,224.9,1002,99.1,,212.7,0.8,2,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-16T19:00:00,83.9,92.3,75.5,75.8,0,0,,0,0,12.1,3.6,210.8,1003,99.5,,53.1,0.2,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-16T20:00:00,79.5,79.5,76.4,90.41,0,0,,0,0,8.7,6.9,225,1005.6,84.3,2.8,2.2,0,0,,Partially cloudy,partly-cloudy-night,"VABP,42667099999"
+"Bhopal, Madhya Pradesh, India",2024-08-16T21:00:00,80.3,85.6,75.1,84.16,0,0,,0,0,8.7,4.3,208.3,1005,95.3,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-16T22:00:00,80,80,75.1,85.16,0,0,,0,0,8.9,5.1,214.2,1006,99.8,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-16T23:00:00,77.8,77.8,76.7,96.2,0,0,,0,0,8.7,3.4,160,1006.7,75,2.8,0,0,0,,Partially cloudy,partly-cloudy-night,"VABP,42667099999"
+"Bhopal, Madhya Pradesh, India",2024-08-17T00:00:00,78.7,78.7,75.5,89.83,0,0,,0,0,9.2,5.4,223.8,1006,98.4,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-17T01:00:00,78.5,78.5,75.5,90.36,0.008,100,rain,0,0,10.5,5.6,243.3,1006,97.1,,0,0,0,,"Rain, Overcast",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-17T02:00:00,76.4,76.4,74.9,95.32,0,0,,0,0,10.5,5.8,180,1004.2,60,2.5,0,0,0,,Partially cloudy,partly-cloudy-night,42667099999
+"Bhopal, Madhya Pradesh, India",2024-08-17T03:00:00,77.8,77.8,74.9,90.88,0.008,100,rain,0,0,8.9,4.3,257.8,1005,97.7,,0,0,0,,"Rain, Overcast",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-17T04:00:00,75.8,75.8,74.4,95.31,0,0,,0,0,7.2,3.1,292.1,1005,99.9,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-17T05:00:00,74.7,74.7,73.9,97.24,0,0,,0,0,6.5,2.2,180,1006,75,2.5,0,0,0,,Partially cloudy,partly-cloudy-night,"VABP,42667099999"
+"Bhopal, Madhya Pradesh, India",2024-08-17T06:00:00,78,78,74.9,90.34,0,0,,0,0,6.9,3.6,246.3,1006,98.9,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-17T07:00:00,77.8,77.8,74.9,90.88,0,0,,0,0,7.6,4.5,240.8,1006,98,,7.9,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-17T08:00:00,79.1,79.1,77.2,93.97,0,0,,0,0,9.2,4.6,200,1007.7,75,2.8,100.6,0.4,1,,Partially cloudy,partly-cloudy-day,"VABP,42672099999,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-17T09:00:00,79.4,79.4,75.6,88.26,0,0,,0,0,12.5,4.5,291.3,1008,98.7,,262.7,0.9,3,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-17T10:00:00,79.4,79.4,76,89.32,0,0,,0,0,13.6,4.3,290.6,1008,99.4,,470.2,1.7,5,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-17T11:00:00,83.2,94.7,79.3,87.91,0,0,,0,0,13.6,5.8,250,1007.7,84.1,2.8,612.3,2.2,6,,Partially cloudy,partly-cloudy-day,"VABP,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-17T12:00:00,84.1,95.4,78.3,82.9,0.004,100,rain,0,0,12.8,3.1,289.4,1008,99.3,,615.5,2.2,6,,"Rain, Overcast",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-17T13:00:00,84.6,96.6,78.5,81.96,0.004,100,rain,0,0,11.6,3.8,280.9,1007,98,,668.5,2.4,7,,"Rain, Overcast",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-17T14:00:00,86.9,103.5,80.6,81.74,0,0,,0,0,13.2,8,230,1005.6,84.1,3.1,706.5,2.5,7,,Partially cloudy,partly-cloudy-day,"VABP,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-17T15:00:00,88.2,102.4,78.3,72.65,0.012,100,rain,0,0,14.1,6.3,270.9,1005,100,,671.5,2.4,7,,"Rain, Overcast",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-17T16:00:00,86.8,98.3,76.9,72.51,0.004,100,rain,0,0,14.1,6.7,265.5,1004,100,,502.2,1.8,5,,"Rain, Overcast",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-17T17:00:00,85.6,102.1,81.2,86.96,0,0,,0,0,13.4,6.8,230,1004.9,83.5,3.2,355.2,1.3,4,,Partially cloudy,partly-cloudy-day,"VABP,42672099999,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-17T18:00:00,87,98.4,76.7,71.67,0,0,,0,0,11.9,3.8,256.3,1004,97.3,,200,0.7,2,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-17T19:00:00,86.8,98.1,76.7,72.08,0,0,,0,0,8.5,2.7,247,1004,76.5,,59.6,0.2,0,,Partially cloudy,partly-cloudy-night,remote
+"Bhopal, Madhya Pradesh, India",2024-08-17T20:00:00,82.5,92.4,78.5,87.87,0,0,,0,0,6.5,0,247.7,1004.8,80,2.5,2.2,0,0,,Partially cloudy,partly-cloudy-night,42667099999
+"Bhopal, Madhya Pradesh, India",2024-08-17T21:00:00,81.4,89,77.3,87.3,0,0,,0,0,5.4,2.9,251.9,1006,51,,0,0,0,,Partially cloudy,partly-cloudy-night,remote
+"Bhopal, Madhya Pradesh, India",2024-08-17T22:00:00,81.2,88.4,76.9,86.77,0,0,,0,0,5.1,3.1,263.1,1007,45.5,,0,0,0,,Partially cloudy,partly-cloudy-night,remote
+"Bhopal, Madhya Pradesh, India",2024-08-17T23:00:00,78.9,78.9,78.5,98.63,0,0,,0,0,5.4,4.7,185,1007.7,63.9,3.2,0,0,0,,Partially cloudy,partly-cloudy-night,"VABP,42667099999"
+"Bhopal, Madhya Pradesh, India",2024-08-18T00:00:00,80,80,76.6,89.34,0,0,,0,0,5.6,2.9,283.3,1007,54.3,,0,0,0,,Partially cloudy,partly-cloudy-night,remote
+"Bhopal, Madhya Pradesh, India",2024-08-18T01:00:00,80,80,76.6,89.34,0,0,,0,0,4.7,3.4,270.7,1007,44.1,,0,0,0,,Partially cloudy,partly-cloudy-night,remote
+"Bhopal, Madhya Pradesh, India",2024-08-18T02:00:00,77.3,77.3,76.4,97.06,0,0,,0,0,4.3,4.7,180,1005.3,60,2.5,0,0,0,,Partially cloudy,partly-cloudy-night,42667099999
+"Bhopal, Madhya Pradesh, India",2024-08-18T03:00:00,79.1,79.1,75.3,88.24,0,0,,0,0,5.1,3.4,257.4,1007,79.3,,0,0,0,,Partially cloudy,partly-cloudy-night,remote
+"Bhopal, Madhya Pradesh, India",2024-08-18T04:00:00,77.4,77.4,75.1,92.52,0,0,,0,0,7.8,3.8,254.8,1007,86.8,,0,0,0,,Partially cloudy,partly-cloudy-night,remote
+"Bhopal, Madhya Pradesh, India",2024-08-18T05:00:00,76,76,75.3,97.52,0,0,,0,0,8.7,4.7,225,1007.6,54.6,3.2,0,0,0,,Partially cloudy,partly-cloudy-night,"VABP,42667099999"
+"Bhopal, Madhya Pradesh, India",2024-08-18T06:00:00,79.2,79.2,74.9,86.67,0,0,,0,0,8.7,4,270.6,1007,93,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-18T07:00:00,79.2,79.2,74.9,86.67,0,0,,0,0,8.5,4.5,283.2,1007,95.2,,9.3,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-18T08:00:00,80.6,87.5,77.6,90.65,0,0,,0,0,10.5,9,270,1008.6,54.3,3.2,109.9,0.4,1,,Partially cloudy,partly-cloudy-day,"VABP,42672099999,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-18T09:00:00,80.7,86.8,76,85.71,0,0,,0,0,12.5,4.9,311.2,1008,96.1,,291.6,1,3,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-18T10:00:00,80.9,86.8,75.5,83.69,0.004,100,rain,0,0,13.6,4.7,316.6,1009,96.2,,489.5,1.8,5,,"Rain, Overcast",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-18T11:00:00,86.2,103.7,81.5,85.78,0,0,,0,0,13.4,9.1,270,1010.2,54.8,3.1,500.1,1.8,5,,Partially cloudy,partly-cloudy-day,"VABP,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-18T12:00:00,85.9,98.2,78,77.33,0.008,100,rain,0,0,12.5,4.5,311.4,1008,96.6,,668.8,2.4,7,,"Rain, Overcast",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-18T13:00:00,85.9,97.5,77.4,75.97,0,0,,0,0,11.2,3.8,317.4,1008,97,,547.3,2,5,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-18T14:00:00,88.7,108.1,81.4,79.04,0,0,,0,0,11,9.1,255,1006.2,75,3.1,762.4,2.7,8,,Partially cloudy,partly-cloudy-day,"VABP,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-18T15:00:00,88.2,101.2,77.4,70.52,0.004,100,rain,0,0,10.3,3.4,319.3,1006,99.2,,676.3,2.4,7,,"Rain, Overcast",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-18T16:00:00,86.8,100.4,78.5,76.49,0,0,,0,0,11.9,5.8,318.9,1006,98.6,,526.1,1.9,5,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-18T17:00:00,85.7,101.7,80.8,85.34,0,0,,0,0,13,6.8,290,1005.5,74.5,3.2,375.1,1.4,4,,Partially cloudy,partly-cloudy-day,"VABP,42672099999,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-18T18:00:00,86.3,99,78.2,76.9,0.016,100,rain,0,0,12.3,3.6,314.4,1005,96.2,,153.4,0.6,2,,"Rain, Overcast",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-18T19:00:00,86.3,98.1,77.4,75.1,0,0,,0,0,7.2,1.6,255.1,1005,99.3,,41.5,0.1,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-18T20:00:00,81.7,91.4,79.6,93.4,0,0,,0,0,6.9,3.4,315,1006.5,75,2.8,1.7,0,0,,Partially cloudy,partly-cloudy-night,"VABP,42667099999"
+"Bhopal, Madhya Pradesh, India",2024-08-18T21:00:00,81.8,90.1,77.6,87.32,0,0,,0,0,5.6,2.7,251.4,1006,97.3,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-18T22:00:00,81.8,89.9,77.4,86.8,0,0,,0,0,4.5,2.7,245.1,1007,95,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-18T23:00:00,79.9,79.9,78,94.13,0,0,,0,0,4.7,4.1,195,1008.6,75,2.8,0,0,0,,Partially cloudy,partly-cloudy-night,"VABP,42667099999"
+"Bhopal, Madhya Pradesh, India",2024-08-19T00:00:00,81.2,88.5,77.1,87.29,0,0,,0,0,5.1,2.7,252.6,1008,99.1,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-19T01:00:00,80.7,87.4,77.1,88.84,0,0,,0,0,5.4,2.5,251,1008,97.7,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-19T02:00:00,79.1,79.1,76.7,92.57,0,0,,0,0,4,4.7,180,1005.9,60,2.5,0,0,0,,Partially cloudy,partly-cloudy-night,42667099999
+"Bhopal, Madhya Pradesh, India",2024-08-19T03:00:00,80.5,86.8,76.7,88.31,0,0,,0,0,4,2.7,251.1,1007,98,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-19T04:00:00,78.3,78.3,75.5,90.9,0,0,,0,0,4.5,2.5,253.1,1007,98.6,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-19T05:00:00,78.5,78.5,75.8,91.45,0,0,,0,0,5.8,3.4,230,1005.7,60,2.5,0,0,0,,Partially cloudy,partly-cloudy-night,42667099999
+"Bhopal, Madhya Pradesh, India",2024-08-19T06:00:00,80.3,86,76,86.73,0,0,,0,0,6.5,3.4,259.2,1006,100,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-19T07:00:00,80.3,85.9,75.8,86.21,0,0,,0,0,6.9,3.8,276.1,1006,99.3,,8.3,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-19T08:00:00,81.5,90.2,78.7,91.55,0,0,,0,0,8.7,9,275,1007.6,83.3,2.9,104.2,0.4,1,,Partially cloudy,partly-cloudy-day,"VABP,42672099999,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-19T09:00:00,81.2,88,76.2,84.72,0,0,,0,0,10.7,4.5,314,1007,85.8,,249.2,0.9,2,,Partially cloudy,partly-cloudy-day,remote
+"Bhopal, Madhya Pradesh, India",2024-08-19T10:00:00,81.2,88.2,76.6,85.74,0,0,,0,0,12.1,5.4,330.5,1008,57.9,,425.6,1.5,4,,Partially cloudy,partly-cloudy-day,remote
+"Bhopal, Madhya Pradesh, India",2024-08-19T11:00:00,86,102.9,81.2,85.69,0,0,,0,0,14.1,6.9,277,1007.4,84.1,2.8,615.4,2.2,6,,Partially cloudy,partly-cloudy-day,"VABP,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-19T12:00:00,87.3,103.1,79.8,78.37,0,0,,0,0,14.8,7.2,333.1,1007,45,,728.6,2.6,7,,Partially cloudy,partly-cloudy-day,remote
+"Bhopal, Madhya Pradesh, India",2024-08-19T13:00:00,87.9,105.8,80.9,79.8,0,0,,0,0,15.2,6.3,341.1,1006,48.3,,606.9,2.2,6,,Partially cloudy,partly-cloudy-day,remote
+"Bhopal, Madhya Pradesh, India",2024-08-19T14:00:00,90.5,108.7,80.1,71.6,0,0,,0,0,13.9,9.1,250,1003.9,45.4,3.1,761.7,2.7,8,,Partially cloudy,partly-cloudy-day,"VABP,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-19T15:00:00,89,104.9,79.2,73.15,0,0,,0,0,12.5,4.3,332.9,1004,53.7,,484.8,1.7,5,,Partially cloudy,partly-cloudy-day,remote
+"Bhopal, Madhya Pradesh, India",2024-08-19T16:00:00,89.3,101.8,76.7,66.55,0,0,,0,0,13.4,4.9,323.9,1002,64.2,,578.8,2.1,6,,Partially cloudy,partly-cloudy-day,remote
+"Bhopal, Madhya Pradesh, India",2024-08-19T17:00:00,88.9,106.1,80.1,75.24,0,0,,0,0,12.3,9,250,1003,49.9,3.2,302,1.1,3,,Partially cloudy,partly-cloudy-day,"VABP,42672099999,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-19T18:00:00,87,99,77.3,72.96,0,0,,0,0,15,4.5,333.4,1003,96.4,,183.3,0.7,2,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-19T19:00:00,87,98.6,76.9,72.1,0,0,,0,0,11.9,2.2,335.7,1004,92.8,,51.2,0.2,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-19T20:00:00,77.8,77.8,75.8,93.56,0,0,,0,0,6.7,5.8,285,1006.6,88.9,1.9,1.7,0,0,,Partially cloudy,partly-cloudy-night,"VABP,42667099999"
+"Bhopal, Madhya Pradesh, India",2024-08-19T21:00:00,79.6,79.6,76.7,90.94,0,0,,0,0,4.3,2.9,332.6,1005,98.1,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-19T22:00:00,80.3,85.8,75.6,85.69,0,0,,0,0,3.8,2.5,318.3,1006,97.6,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-19T23:00:00,77.8,77.8,76.7,96.2,0.039,100,rain,0,0,2.5,3.4,15,1006.9,88.9,2.8,0,0,0,,"Rain, Partially cloudy",rain,"VABP,42667099999"
+"Bhopal, Madhya Pradesh, India",2024-08-20T00:00:00,78.3,78.3,76.2,93.1,0,0,,0,0,4.7,2.2,267.7,1007,98.8,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-20T01:00:00,78.2,78.2,76.2,93.66,0,0,,0,0,3.6,1.8,254.1,1006,98,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-20T02:00:00,78,78,76.4,94.78,0,0,,0,0,3.4,5.8,160,1004.3,90,2.5,0,0,0,,Partially cloudy,partly-cloudy-night,42667099999
+"Bhopal, Madhya Pradesh, India",2024-08-20T03:00:00,77.6,77.6,76,94.77,0,0,,0,0,5.4,1.8,180.2,1005,99.8,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-20T04:00:00,76.2,76.2,75.3,97.05,0,0,,0,0,6,2.2,181.2,1006,100,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-20T05:00:00,77.3,77.3,76.4,97.06,0,0,,0,0,6.5,2.2,200,1003.1,90,1.2,0,0,0,,Partially cloudy,partly-cloudy-night,42667099999
+"Bhopal, Madhya Pradesh, India",2024-08-20T06:00:00,78.2,78.2,75.6,91.99,0,0,,0,0,4.9,2.2,239.7,1005,100,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-20T07:00:00,78.2,78.2,75.6,91.99,0,0,,0,0,5.4,2.2,224.5,1005,100,,6.4,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-20T08:00:00,79.2,79.2,78,95.84,0,0,,0,0,6.3,5.1,180,1006.6,84.3,2,86.1,0.3,1,,Partially cloudy,partly-cloudy-day,"VABP,42672099999,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-20T09:00:00,79.4,79.4,76,89.32,0,0,,0,0,6.5,1.3,271.3,1006,98.9,,180.9,0.7,2,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-20T10:00:00,79.6,79.6,75.8,88.26,0,0,,0,0,8.3,1.6,325.9,1007,98.5,,365.2,1.3,4,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-20T11:00:00,85,100.3,80.8,87.29,0,0,,0,0,11.6,4.7,339,1006.5,88.7,1.6,577.9,2.1,6,,Partially cloudy,partly-cloudy-day,"VABP,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-20T12:00:00,87.3,99.8,77.4,72.56,0,0,,0,0,11.6,3.4,5.9,1006,100,,569.7,2.1,6,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-20T13:00:00,85.9,97.5,77.4,75.97,0,0,,0,0,9.8,2.5,14.3,1006,100,,486.5,1.8,5,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-20T14:00:00,83.1,96.1,80.9,93.24,0,0,,0,0,8.7,2.2,282,1004.5,88.8,3.1,367.5,1.3,4,,Partially cloudy,partly-cloudy-day,"VABP,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-20T15:00:00,87.9,102.1,78.5,73.92,0,0,,0,0,10.1,2.9,3.1,1004,98.2,,504.4,1.8,5,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-20T16:00:00,83.7,93.1,76.7,79.5,0,0,,0,0,9.4,1.3,319.4,1003,99.7,,382.1,1.4,4,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-20T17:00:00,81.5,90.6,79,92.03,0.866,100,rain,0,0,7.4,8,261,1004.6,88.4,3.1,268.2,1,3,,"Rain, Partially cloudy",rain,"VABP,42672099999,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-20T18:00:00,83.9,94.3,77.6,81.43,0,0,,0,0,6.9,4,334.3,1004,100,,141.8,0.5,1,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-20T19:00:00,83.6,93.8,77.8,82.87,0,0,,0,0,6.5,4.3,334.4,1005,100,,53.9,0.2,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-20T20:00:00,77.4,77.4,76.8,98.08,0,0,,0,0,4,4.7,230,1007.5,88.9,2.8,1.4,0,0,,Partially cloudy,partly-cloudy-night,"VABP,42667099999"
+"Bhopal, Madhya Pradesh, India",2024-08-20T21:00:00,78.9,78.9,76.9,93.67,0,0,,0,0,4,2.2,333.4,1007,100,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-20T22:00:00,78.3,78.3,76.6,94.22,0,0,,0,0,3.1,0.9,229.1,1007,100,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-20T23:00:00,76.1,76.1,75.7,98.62,0,0,,0,0,4.3,4.7,200,1007.9,88.9,2.8,0,0,0,,Partially cloudy,partly-cloudy-night,"VABP,42667099999"
+"Bhopal, Madhya Pradesh, India",2024-08-21T00:00:00,77.3,77.3,76.2,96.48,0.031,100,rain,0,0,7.2,1.3,183.2,1007,100,,0,0,0,,"Rain, Overcast",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-21T01:00:00,76.9,76.9,75.6,95.9,0.012,100,rain,0,0,4.7,2.2,187.5,1008,99.8,,0,0,0,,"Rain, Overcast",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-21T02:00:00,77.1,77.1,75.8,95.9,0,0,,0,0,6.3,4.7,180,1005.7,90,2.5,0,0,0,,Partially cloudy,partly-cloudy-night,42667099999
+"Bhopal, Madhya Pradesh, India",2024-08-21T03:00:00,76.6,76.6,75.5,96.47,0.039,100,rain,0,0,8.3,3.8,227.2,1007,100,,0,0,0,,"Rain, Overcast",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-21T04:00:00,76,76,74.9,96.46,0.02,100,rain,0,0,8.1,4.3,247.5,1007,99.8,,0,0,0,,"Rain, Overcast",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-21T05:00:00,76,76,74.5,94.96,0,0,,0,0,7.2,4.7,200,1006.7,88.9,2.8,0,0,0,,Partially cloudy,partly-cloudy-night,"VABP,42667099999"
+"Bhopal, Madhya Pradesh, India",2024-08-21T06:00:00,78.2,78.2,75.3,90.89,0.012,100,rain,0,0,6.3,1.6,231.1,1006,93.3,,0,0,0,,"Rain, Overcast",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-21T07:00:00,77.8,77.8,74.9,90.88,0.004,100,rain,0,0,6,2.7,238.1,1007,79.9,,6.9,0,0,,"Rain, Partially cloudy",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-21T08:00:00,77.9,77.9,76.4,95.33,0,0,,0,0,7.2,6.8,250,1008.4,89.1,2.5,84.9,0.3,1,,Partially cloudy,partly-cloudy-day,"VABP,42672099999,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-21T09:00:00,79.4,79.4,75.6,88.26,0,0,,0,0,8.5,2.7,254.9,1008,64.5,,216.4,0.8,2,,Partially cloudy,partly-cloudy-day,remote
+"Bhopal, Madhya Pradesh, India",2024-08-21T10:00:00,79.2,79.2,76.4,90.93,0.004,100,rain,0,0,9.4,2.7,277.2,1008,73,,355.1,1.3,4,,"Rain, Partially cloudy",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-21T11:00:00,83.9,95.8,79.1,85.69,0,0,,0,0,10.1,5.8,290,1008.5,84.3,3.1,556.9,2,6,,Partially cloudy,partly-cloudy-day,"VABP,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-21T12:00:00,86.4,98.2,77.3,74.23,0.008,100,rain,0,0,10.3,2.2,304.5,1007,100,,600.8,2.2,6,,"Rain, Overcast",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-21T13:00:00,85.4,96,76.9,75.92,0.004,100,rain,0,0,8.9,1.8,318.2,1007,100,,507,1.8,5,,"Rain, Overcast",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-21T14:00:00,85.3,101.5,81.2,87.71,0,0,,0,0,7.8,8.5,180,1005.4,74.9,3.1,435.6,1.6,4,,Partially cloudy,partly-cloudy-day,"VABP,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-21T15:00:00,87.3,100.8,78.2,74.31,0.118,100,rain,0,0,7.4,0.4,306,1005,99.1,,359.7,1.3,4,,"Rain, Overcast",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-21T16:00:00,82.7,91.2,76.7,82.32,0.098,100,rain,0,0,10.7,3.6,267.7,1005,99.9,,351.5,1.3,4,,"Rain, Overcast",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-21T17:00:00,83.7,96.9,80.4,89.68,0,0,,0,0,13.4,2.2,248,1004.4,74.7,3.1,231.8,0.8,2,,Partially cloudy,partly-cloudy-day,"VABP,42672099999,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-21T18:00:00,83,92.1,77.1,82.34,0.031,100,rain,0,0,12.3,3.1,300.3,1005,97.7,,133.6,0.5,1,,"Rain, Overcast",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-21T19:00:00,83.7,93.3,76.9,79.97,0,0,,0,0,9.8,2,3.7,1005,100,,28.9,0.1,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-21T20:00:00,79.9,79.9,76.9,90.55,0,0,,0,0,5.6,2.2,319,1006.4,84.3,3.2,1.2,0,0,,Partially cloudy,partly-cloudy-night,"VABP,42667099999"
+"Bhopal, Madhya Pradesh, India",2024-08-21T21:00:00,80.1,85.9,76.6,88.82,0,0,,0,0,4.3,2.9,34.2,1007,100,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-21T22:00:00,79.6,79.6,76.9,91.49,0,0,,0,0,2.2,2,112.4,1007,100,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-21T23:00:00,79.3,79.3,76.5,91.29,0,0,,0,0,2.7,1.1,115,1007.6,84.3,3.2,0,0,0,,Partially cloudy,partly-cloudy-night,"VABP,42667099999"
+"Bhopal, Madhya Pradesh, India",2024-08-22T00:00:00,78.9,78.9,76.7,93.12,0,0,,0,0,3.8,2,201.3,1007,100,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-22T01:00:00,78.9,78.9,76.6,92.56,0,0,,0,0,2.5,1.3,219.3,1007,100,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-22T02:00:00,78.9,78.9,76.7,93.12,0,0,,0,0,3.4,1.1,110,1004.6,80,2.5,0,0,0,,Partially cloudy,partly-cloudy-night,42667099999
+"Bhopal, Madhya Pradesh, India",2024-08-22T03:00:00,78.3,78.3,76.4,93.66,0,0,,0,0,4.7,1.6,238.4,1006,100,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-22T04:00:00,78,78,76.4,94.78,0,0,,0,0,4.9,1.3,269.8,1006,99.8,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-22T05:00:00,77.6,77.6,76.7,97.07,0,0,,0,0,4.7,4.7,270,1004.9,80,1.2,0,0,0,,Partially cloudy,partly-cloudy-night,42667099999
+"Bhopal, Madhya Pradesh, India",2024-08-22T06:00:00,80.1,86,76.7,89.35,0,0,,0,0,3.6,1.6,281,1006,98.2,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-22T07:00:00,80.1,86,76.7,89.35,0,0,,0,0,4,2.7,263.4,1006,98.7,,6.3,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-22T08:00:00,82.4,91.4,77.7,85.75,0,0,,0,0,6.5,3.3,205,1007.4,75,1.6,84,0.3,1,,Partially cloudy,partly-cloudy-day,"VABP,42672099999,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-22T09:00:00,81.6,89.7,77.6,87.83,0.004,100,rain,0,0,9.4,4.5,271.1,1007,98.9,,194,0.7,2,,"Rain, Overcast",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-22T10:00:00,81.8,90.5,78.2,88.89,0.012,100,rain,0,0,10.7,4.3,270.4,1007,97.4,,350,1.3,4,,"Rain, Overcast",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-22T11:00:00,85.1,94.9,76.3,75.15,0,0,,0,0,12.3,5.8,245,1006.5,84.1,3.1,518.2,1.9,5,,Partially cloudy,partly-cloudy-day,"VABP,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-22T12:00:00,87.2,99.6,77.4,72.98,0.028,100,rain,0,0,13,3.1,278.3,1007,97.1,,455.6,1.6,5,,"Rain, Overcast",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-22T13:00:00,87.9,101.1,77.8,72.18,0.004,100,rain,0,0,12.1,2.5,283.9,1006,100,,742.5,2.7,7,,"Rain, Overcast",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-22T14:00:00,87.7,96.7,74.3,64.66,0,0,,0,0,11,6.4,310,1003.4,84.4,3.1,591.7,2.1,6,,Partially cloudy,partly-cloudy-day,"VABP,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-22T15:00:00,83.4,92.8,77.1,81.39,0,0,,0,0,10.5,3.4,292.3,1004,100,,489,1.8,5,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-22T16:00:00,85.4,94.9,75.8,73.24,0.004,100,rain,0,0,10.5,3.1,243.5,1004,100,,447.7,1.6,4,,"Rain, Overcast",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-22T17:00:00,85,93.3,74.8,71.72,0,0,,0,0,8.7,6.7,219,1003.4,84.6,2.8,282.5,1,3,,Partially cloudy,partly-cloudy-day,"VABP,42672099999,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-22T18:00:00,82.8,90.9,76,79.91,0.118,100,rain,0,0,8.9,3.1,277.3,1003,100,,121,0.4,1,,"Rain, Overcast",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-22T19:00:00,82.5,90.2,76,80.84,0.024,100,rain,0,0,8.5,1.6,310.9,1004,98.4,,50.6,0.2,0,,"Rain, Overcast",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-22T20:00:00,79.6,79.6,75.2,86.23,0,0,,0,0,4.3,1.1,320,1006.5,84.3,2.5,1,0,0,,Partially cloudy,partly-cloudy-night,"VABP,42667099999"
+"Bhopal, Madhya Pradesh, India",2024-08-22T21:00:00,79.6,79.6,76.2,89.33,0.004,100,rain,0,0,6,1.8,165,1006,99.4,,0,0,0,,"Rain, Overcast",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-22T22:00:00,79.2,79.2,76,89.85,0.012,100,rain,0,0,5.8,2.2,197.1,1006,100,,0,0,0,,"Rain, Overcast",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-22T23:00:00,78.7,78.7,75.9,91.14,0,0,,0,0,6.7,2.2,200,1006.7,84.3,2.8,0,0,0,,Partially cloudy,partly-cloudy-night,"VABP,42667099999"
+"Bhopal, Madhya Pradesh, India",2024-08-23T00:00:00,78.7,78.7,76.7,93.67,0,0,,0,0,7.4,3.1,188,1007,100,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-23T01:00:00,78.5,78.5,76,92,0,0,,0,0,7.8,3.8,195.8,1007,100,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-23T02:00:00,76.4,76.4,74.1,92.61,0,0,,0,0,8.1,5.8,200,1005.8,84.3,2.8,0,0,0,,Partially cloudy,partly-cloudy-night,"VABP,42667099999"
+"Bhopal, Madhya Pradesh, India",2024-08-23T03:00:00,76.6,76.6,74.6,93.62,0,0,,0,0,9.6,5.6,198.9,1006,99.1,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-23T04:00:00,75.5,75.5,73.8,94.73,0,0,,0,0,10.5,6.7,216.6,1006,99.9,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-23T05:00:00,74.2,74.2,73.6,98.05,0,0,,0,0,10.5,6.9,180,1006.1,88.9,1.6,0,0,0,,Partially cloudy,partly-cloudy-night,"VABP,42667099999"
+"Bhopal, Madhya Pradesh, India",2024-08-23T06:00:00,76.4,76.4,74.2,93.05,0,0,,0,0,9.6,5.4,229.6,1006,98.4,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-23T07:00:00,76.4,76.4,74.2,93.05,0,0,,0,0,8.3,4.3,241.9,1006,94.3,,3.3,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-23T08:00:00,77,77,74.5,92.04,0.079,100,rain,0,0,7.8,7.9,205,1006.8,89.1,2.5,33.2,0.1,0,,"Rain, Partially cloudy",rain,"VABP,42672099999,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-23T09:00:00,77.1,77.1,74.9,93.07,0,0,,0,0,7.8,5.4,282.5,1007,96.3,,84.4,0.3,1,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-23T10:00:00,76.6,76.6,74.6,93.62,0,0,,0,0,8.9,4.5,300.7,1007,97.6,,126.2,0.5,1,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-23T11:00:00,81.8,88.5,75.2,80.29,0,0,,0,0,9.6,6.9,320,1006.6,88.7,3.1,172.2,0.6,2,,Partially cloudy,partly-cloudy-day,"VABP,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-23T12:00:00,81.1,87.7,76.4,85.73,0,0,,0,0,10.1,1.1,266.7,1006,98.8,,324.6,1.2,3,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-23T13:00:00,80.5,86.4,76,86.22,0,0,,0,0,7.6,0.9,170.5,1006,96.2,,306.5,1.1,3,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-23T14:00:00,82.7,90,75.3,78.45,0.016,100,rain,0,0,8.7,3.4,14,1003.5,88.7,2.5,349.3,1.3,3,,"Rain, Partially cloudy",rain,"VABP,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-23T15:00:00,83.2,91.7,76.2,79.46,0,0,,0,0,8.5,1.6,190.6,1004,96.7,,505.8,1.8,5,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-23T16:00:00,81.6,88.6,76,83.24,0,0,,0,0,8.1,0.7,160.7,1004,98.4,,372.7,1.3,4,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-23T17:00:00,74.8,74.8,73.6,95.83,0,0,,0,0,9.6,1,275,1004.5,93.4,0.7,288.1,1,3,,Overcast,fog,"VABP,42672099999,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-23T18:00:00,81.6,88.8,76.4,84.24,0,0,,0,0,11,6,247.1,1003,99,,133.9,0.5,1,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-23T19:00:00,81.4,88.3,76.2,84.23,0,0,,0,0,10.1,4.3,252.5,1005,100,,32.9,0.1,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-23T20:00:00,75.9,75.9,74.9,96.84,2.898,100,rain,0,0,9.4,1.1,20,1005.7,93.6,2.8,0.7,0,0,,"Rain, Overcast",rain,"VABP,42667099999"
+"Bhopal, Madhya Pradesh, India",2024-08-23T21:00:00,77.4,77.4,75.5,93.64,0,0,,0,0,4.7,2.7,280.5,1005,100,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-23T22:00:00,77.3,77.3,75.3,93.63,0,0,,0,0,4.9,2.9,281.7,1006,100,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-23T23:00:00,76,76,75.7,98.89,0,0,,0,0,6.5,4.7,230,1005.7,93.6,1.9,0,0,0,,Overcast,cloudy,"VABP,42667099999"
+"Bhopal, Madhya Pradesh, India",2024-08-24T00:00:00,76.9,76.9,75.3,94.76,0,0,,0,0,6,2.7,239,1006,100,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-24T01:00:00,76.4,76.4,75.1,95.89,0,0,,0,0,6.7,3.1,213.9,1005,100,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-24T02:00:00,75.7,75.7,73.6,93.37,0,0,,0,0,5.4,5.8,234,1004.8,93.6,1.9,0,0,0,,Overcast,cloudy,"VABP,42667099999"
+"Bhopal, Madhya Pradesh, India",2024-08-24T03:00:00,76,76,74.7,95.89,0,0,,0,0,5.6,3.1,216.9,1004,100,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-24T04:00:00,75.8,75.8,74.6,95.88,0,0,,0,0,5.8,4.7,260.5,1004,100,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-24T05:00:00,75.9,75.9,74.3,94.96,0.197,100,rain,0,0,6.3,4.5,310,1004,93.6,1.6,0,0,0,,"Rain, Overcast",rain,"VABP,42667099999"
+"Bhopal, Madhya Pradesh, India",2024-08-24T06:00:00,76.9,76.9,74.9,93.62,0,0,,0,0,6.3,5.6,300.7,1004,100,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-24T07:00:00,76.7,76.7,74.9,94.18,0,0,,0,0,5.8,5.4,319.4,1004,100,,4.3,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-24T08:00:00,77.8,77.8,75.7,93.21,0,0,,0,0,5.6,6.8,340,1004.8,93.7,1.6,42.5,0.2,0,,Overcast,cloudy,"VABP,42672099999,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-24T09:00:00,77.6,77.6,75.3,92.53,0,0,,0,0,6.5,4,330.9,1005,99.9,,77.2,0.3,1,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-24T10:00:00,78.3,78.3,75.6,91.44,0,0,,0,0,7.6,3.8,346.2,1005,99.5,,212.5,0.8,2,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-24T11:00:00,80.6,86.5,75.9,85.6,0,0,,0,0,8.3,4.7,359,1003.9,93.6,2.5,267,1,3,,Overcast,cloudy,"VABP,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-24T12:00:00,81.4,87.9,75.5,82.23,0,0,,0,0,7.8,4.9,340.9,1004,95.9,,171,0.6,2,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-24T13:00:00,81.4,88.1,75.8,83.23,0,0,,0,0,11.9,5.4,336.9,1003,97.9,,266.3,1,3,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-24T14:00:00,79,79,77.4,94.61,0.236,100,rain,0,0,13.4,4.7,320,1001.6,93.6,1,451.1,1.6,5,,"Rain, Overcast",rain,"VABP,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-24T15:00:00,83.6,92.5,76.4,79.01,0,0,,0,0,14.5,5.1,341.2,1001,100,,527,1.9,5,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-24T16:00:00,78.2,78.2,76,93.1,0,0,,0,0,13.9,5.8,349.6,1001,99.5,,151,0.5,2,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-24T17:00:00,77.9,77.9,76.7,96.06,0,0,,0,0,10.1,5.7,224,1000.4,93.7,1.3,209.2,0.8,2,,Overcast,cloudy,"VABP,42672099999,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-24T18:00:00,80.3,86.3,76.6,88.3,0,0,,0,0,9.8,4.9,250.3,1000,99.1,,153.9,0.6,2,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-24T19:00:00,80.3,86.4,76.9,89.36,0,0,,0,0,10.3,5.8,243.9,1001,99.3,,51.1,0.2,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-24T20:00:00,75.9,75.9,74.3,94.96,0,0,,0,0,10.7,5.8,235,1001.9,93.6,1.3,0.8,0,0,,Overcast,cloudy,"VABP,42667099999"
+"Bhopal, Madhya Pradesh, India",2024-08-24T21:00:00,76.9,76.9,75.5,95.33,0,0,,0,0,10.1,6.7,253.6,1002,99.2,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-24T22:00:00,76.6,76.6,75.1,95.32,0,0,,0,0,10.3,6.9,248.9,1002,100,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-24T23:00:00,74.7,74.7,74.5,99.16,0.551,100,rain,0,0,13.6,8.1,245,1001.9,93.6,1.3,0,0,0,,"Rain, Overcast",rain,"VABP,42667099999"
+"Bhopal, Madhya Pradesh, India",2024-08-25T00:00:00,75.6,75.6,74.7,97.04,0,0,,0,0,14.8,8.3,248.6,1002,100,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-25T01:00:00,75.1,75.1,74.6,98.21,0,0,,0,0,15,8.9,245.5,1001,100,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-25T02:00:00,75.3,75.3,74.6,97.62,0,0,,0,0,16.3,5.8,230,998.8,100,0.6,0,0,0,,Overcast,fog,42667099999
+"Bhopal, Madhya Pradesh, India",2024-08-25T03:00:00,74.2,74.2,74.2,100,0,0,,0,0,16.3,9.8,235.4,1000,100,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-25T04:00:00,74.7,74.7,74.6,99.4,0,0,,0,0,17.2,9.4,239.5,1000,100,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-25T05:00:00,74.2,74.2,72.9,95.73,2.559,100,rain,0,0,17.9,8.1,205,999.8,100,0.6,0,0,0,,"Rain, Overcast",rain,"VABP,42667099999"
+"Bhopal, Madhya Pradesh, India",2024-08-25T06:00:00,75.1,75.1,74.2,97.03,0,0,,0,0,18.8,10.1,244.9,999,100,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-25T07:00:00,75.1,75.1,74,96.45,0,0,,0,0,21,9.8,232.3,1000,100,,0.6,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-25T08:00:00,74.3,74.3,73.7,98.09,1.063,100,rain,0,0,21.7,7.4,206,1000.9,100,1,5.9,0,0,,"Rain, Overcast",rain,"VABP,42672099999,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-25T09:00:00,74.6,74.6,73.8,97.62,0,0,,0,0,21.9,10.3,211.5,1001,100,,6.5,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-25T10:00:00,74.2,74.2,73.7,98.2,0,0,,0,0,22.4,11.2,206.7,1001,100,,3.9,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-25T11:00:00,75.1,75.1,74.3,97.52,0.039,100,rain,0,0,22.8,8.6,202,1000.7,100,1.2,29.7,0.1,0,,"Rain, Overcast",rain,"VABP,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-25T12:00:00,75.1,75.1,74.9,99.4,0,0,,0,0,22.8,11.4,205.4,1001,100,,33.1,0.1,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-25T13:00:00,75.1,75.1,75.1,100,0,0,,0,0,21.5,12.3,211.2,1001,100,,61.2,0.2,1,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-25T14:00:00,75.5,75.5,75.4,99.96,0.118,100,rain,0,0,22.1,6.9,160,999.7,93.6,1.6,146.6,0.5,1,,"Rain, Overcast",rain,"VABP,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-25T15:00:00,76.9,76.9,75.6,95.9,0,0,,0,0,22.1,16.6,214,999,100,,212.2,0.8,2,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-25T16:00:00,76,76,75.1,97.05,0,0,,0,0,22.4,11.4,203.6,999,100,,142.8,0.5,1,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-25T17:00:00,75.7,75.7,74.9,97.23,0,0,,0,0,21.7,7.9,160,998.8,93.7,1.6,108.6,0.4,1,,Overcast,cloudy,"VABP,42672099999,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-25T18:00:00,76.4,76.4,75.1,95.89,0,0,,0,0,21.5,10.1,182.7,999,100,,97.4,0.4,1,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-25T19:00:00,76.2,76.2,74.6,94.74,0,0,,0,0,25.3,11.6,184.8,999,100,,27,0.1,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-25T20:00:00,75.7,75.7,75.2,98.34,0.157,100,rain,0,0,24.8,9.2,135,999.8,93.6,1.6,0.5,0,0,,"Rain, Overcast",rain,"VABP,42667099999"
+"Bhopal, Madhya Pradesh, India",2024-08-25T21:00:00,75.3,75.3,74.6,97.62,0,0,,0,0,23.9,11.9,182.6,1000,100,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-25T22:00:00,75.3,75.3,74.4,97.04,0,0,,0,0,23.9,11,181.3,1000,100,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-25T23:00:00,74.1,74.1,73.5,98.05,0,0,,0,0,23.7,10.3,160,1000.8,93.6,2.5,0,0,0,,Overcast,cloudy,"VABP,42667099999"
+"Bhopal, Madhya Pradesh, India",2024-08-26T00:00:00,74.6,74.6,73.1,95.28,0.031,100,rain,0,0,22.8,10.1,176.1,1000,100,,0,0,0,,"Rain, Overcast",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-26T01:00:00,74.7,74.7,72.6,93,0,0,,0,0,17.9,10.1,171.8,1000,100,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-26T02:00:00,74.6,74.6,72.4,93,0.004,100,rain,0,0,18.8,10.5,171.2,999,100,,0,0,0,,"Rain, Overcast",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-26T03:00:00,74,74,71.7,92.42,0.004,100,rain,0,0,19.2,10.7,173.7,999,100,,0,0,0,,"Rain, Overcast",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-26T04:00:00,74,74,72.4,94.69,0.016,100,rain,0,0,19.5,10.7,176.5,1000,100,,0,0,0,,"Rain, Overcast",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-26T05:00:00,73.6,73.6,72.3,95.45,0,0,,0,0,18.8,9.2,155,1000.1,93.6,1.6,0,0,0,,Overcast,cloudy,"VABP,42667099999"
+"Bhopal, Madhya Pradesh, India",2024-08-26T06:00:00,74.4,74.4,72.8,94.7,0.028,100,rain,0,0,18.6,10.3,184.4,1000,100,,0,0,0,,"Rain, Overcast",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-26T07:00:00,74.2,74.2,72.8,95.28,0.016,100,rain,0,0,18.1,10.5,187.4,1001,100,,0.9,0,0,,"Rain, Overcast",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-26T08:00:00,74.3,74.3,73.5,97.45,0,0,,0,0,18.8,9,135,1001.9,89.1,1.6,10.3,0,0,,Partially cloudy,partly-cloudy-day,"VABP,42672099999,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-26T09:00:00,74.7,74.7,73.8,97.03,0.012,100,rain,0,0,17.4,10.1,196.8,1002,100,,27.5,0.1,0,,"Rain, Overcast",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-26T10:00:00,74.9,74.9,73.7,95.87,0.012,100,rain,0,0,19.7,8.9,199.8,1003,98.5,,76.9,0.3,1,,"Rain, Overcast",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-26T11:00:00,75.9,75.9,74.9,96.7,0,0,,0,0,21.5,8.8,140,1002.8,93.6,2.5,139.4,0.5,1,,Overcast,cloudy,"VABP,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-26T12:00:00,77.8,77.8,74.9,90.88,0.004,100,rain,0,0,23,10.5,197.8,1003,98,,220.1,0.8,2,,"Rain, Overcast",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-26T13:00:00,77.4,77.4,74.2,89.78,0,0,,0,0,21,10.7,197.6,1002,96.6,,360.7,1.3,4,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-26T14:00:00,82.4,91.6,77.9,86.32,0,0,,0,0,21.5,11.4,146,1000.5,93.5,2.5,413.6,1.5,4,,Overcast,cloudy,"VABP,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-26T15:00:00,81.8,88.4,75.3,80.79,0.004,100,rain,0,0,21.7,11.2,200.8,1001,93.7,,416.1,1.5,4,,"Rain, Overcast",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-26T16:00:00,81.4,87.3,74.6,79.8,0,0,,0,0,26.2,12.1,203.9,1000,86,,389.5,1.4,4,,Partially cloudy,partly-cloudy-day,remote
+"Bhopal, Madhya Pradesh, India",2024-08-26T17:00:00,81.1,88.2,77,87.25,0,0,,0,0,26.4,14.7,141,999.7,88.2,2.5,224.4,0.8,2,,Partially cloudy,partly-cloudy-day,"VABP,42672099999,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-26T18:00:00,80.3,85.3,74.4,82.16,0,0,,0,0,23.3,9.8,200,1000,93.1,,104.8,0.4,1,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-26T19:00:00,80.3,85.1,74,81.18,0,0,,0,0,19.2,8.9,193.7,1001,93.4,,42,0.2,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-26T20:00:00,76.1,76.1,74.3,94.17,0,0,,0,0,18.1,11.4,135,1002.7,93.6,2.8,0.7,0,0,,Overcast,cloudy,"VABP,42667099999"
+"Bhopal, Madhya Pradesh, India",2024-08-26T21:00:00,76.7,76.7,72.8,87.6,0,0,,0,0,15.7,8.3,195.6,1003,98.8,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-26T22:00:00,76.7,76.7,72.8,87.6,0,0,,0,0,15.4,8.5,191.3,1004,99.8,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-26T23:00:00,74.2,74.2,73.1,96.14,0,0,,0,0,15.4,10.3,180,1003.9,93.6,2.8,0,0,0,,Overcast,cloudy,"VABP,42667099999"
+"Bhopal, Madhya Pradesh, India",2024-08-27T00:00:00,75.8,75.8,72.6,89.71,0,0,,0,0,15.4,9.2,191.8,1004,96.5,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-27T01:00:00,75.8,75.8,72.6,89.71,0,0,,0,0,16.8,9.4,196.4,1003,96.7,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-27T02:00:00,74.1,74.1,73.1,96.68,0,0,,0,0,17,11.4,180,1003.3,93.6,2.8,0,0,0,,Overcast,cloudy,"VABP,42667099999"
+"Bhopal, Madhya Pradesh, India",2024-08-27T03:00:00,74.9,74.9,72.4,91.88,0,0,,0,0,16.3,8.1,200.5,1003,94.2,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-27T04:00:00,73.8,73.8,71.9,93.55,0,0,,0,0,15.4,7.8,208,1003,92.2,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-27T05:00:00,72.7,72.7,72.1,98.04,0,0,,0,0,15,8.1,140,1003.8,93.6,1.6,0,0,0,,Overcast,cloudy,"VABP,42667099999"
+"Bhopal, Madhya Pradesh, India",2024-08-27T06:00:00,74.9,74.9,71.9,90.22,0,0,,0,0,13.6,6.5,204.4,1004,68.4,,0,0,0,,Partially cloudy,partly-cloudy-night,remote
+"Bhopal, Madhya Pradesh, India",2024-08-27T07:00:00,74.7,74.7,71.7,90.22,0,0,,0,0,12.1,6,191.6,1004,71.2,,5.3,0,0,,Partially cloudy,partly-cloudy-day,remote
+"Bhopal, Madhya Pradesh, India",2024-08-27T08:00:00,75.7,75.7,73.8,93.64,0,0,,0,0,13.9,10.6,140,1005.8,83.8,2.5,77.6,0.3,1,,Partially cloudy,partly-cloudy-day,"VABP,42672099999,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-27T09:00:00,75.8,75.8,71.9,87.56,0,0,,0,0,18.1,9.4,204,1006,98.5,,147,0.5,1,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-27T10:00:00,75.8,75.8,71.9,87.56,0,0,,0,0,20.8,10.3,208.8,1006,86,,263.8,0.9,3,,Partially cloudy,partly-cloudy-day,remote
+"Bhopal, Madhya Pradesh, India",2024-08-27T11:00:00,82.6,92.1,77.8,85.48,0,0,,0,0,21.3,12.7,160,1005.6,75,3.1,381.4,1.4,4,,Partially cloudy,partly-cloudy-day,"VABP,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-27T12:00:00,83,89.8,74.2,74.81,0,0,,0,0,20.8,11.2,209.3,1005,83.4,,502.8,1.8,5,,Partially cloudy,partly-cloudy-day,remote
+"Bhopal, Madhya Pradesh, India",2024-08-27T13:00:00,83.6,90.5,74,73.08,0,0,,0,0,22.4,10.7,210.7,1005,90.3,,762.3,2.7,8,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-27T14:00:00,85.7,95.5,76,72.85,0,0,,0,0,22.1,10.2,175,1004.2,75,3.1,829.8,3,8,,Partially cloudy,partly-cloudy-day,"VABP,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-27T15:00:00,86.3,94.6,74.2,67.42,0.004,100,rain,0,0,22.1,10.5,219.4,1003,84.9,,559.4,2,6,,"Rain, Partially cloudy",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-27T16:00:00,84.8,92.7,74.4,71.03,0.004,100,rain,0,0,20.8,8.1,224,1004,31.3,,511,1.8,5,,"Rain, Partially cloudy",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-27T17:00:00,84.9,96.2,77.8,79.37,0,0,,0,0,18.6,10.1,160,1003.3,83.5,3.2,370.1,1.3,4,,Partially cloudy,partly-cloudy-day,"VABP,42672099999,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-27T18:00:00,85,93.1,74.6,71.04,0,0,,0,0,16.1,5.1,218.3,1003,15.8,,222.6,0.8,2,,Clear,clear-day,remote
+"Bhopal, Madhya Pradesh, India",2024-08-27T19:00:00,84.8,92.5,74.2,70.6,0,0,,0,0,11.9,4.9,209.1,1003,32.7,,67.2,0.2,0,,Partially cloudy,partly-cloudy-night,remote
+"Bhopal, Madhya Pradesh, India",2024-08-27T20:00:00,79.6,79.6,76.8,91.05,0,0,,0,0,9.6,3.4,160,1005.7,63.9,3.2,0.7,0,0,,Partially cloudy,partly-cloudy-night,"VABP,42667099999"
+"Bhopal, Madhya Pradesh, India",2024-08-27T21:00:00,79.8,79.8,74.2,83.12,0,0,,0,0,8.7,5.1,200.2,1006,91.3,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-27T22:00:00,79.4,79.4,73.8,83.1,0,0,,0,0,9.8,5.6,210.1,1006,90.8,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-27T23:00:00,74.9,74.9,74.1,97.24,0,0,,0,0,10.7,3.4,180,1007,54.6,3.2,0,0,0,,Partially cloudy,partly-cloudy-night,"VABP,42667099999"
+"Bhopal, Madhya Pradesh, India",2024-08-28T00:00:00,76.9,76.9,73.1,88.14,0,0,,0,0,10.5,4.5,219.3,1007,85.2,,0,0,0,,Partially cloudy,partly-cloudy-night,remote
+"Bhopal, Madhya Pradesh, India",2024-08-28T01:00:00,76.6,76.6,72.9,88.66,0,0,,0,0,8.1,4.5,211.7,1007,81.4,,0,0,0,,Partially cloudy,partly-cloudy-night,remote
+"Bhopal, Madhya Pradesh, India",2024-08-28T02:00:00,74.9,74.9,72.8,93.01,0,0,,0,0,7.8,4.7,200,1004.8,80,2.5,0,0,0,,Partially cloudy,partly-cloudy-night,42667099999
+"Bhopal, Madhya Pradesh, India",2024-08-28T03:00:00,75.5,75.5,72.9,91.9,0,0,,0,0,8.1,4.9,203.2,1006,50.1,,0,0,0,,Partially cloudy,partly-cloudy-night,remote
+"Bhopal, Madhya Pradesh, India",2024-08-28T04:00:00,74.7,74.7,72.6,93,0,0,,0,0,8.9,5.1,209.2,1006,58.7,,0,0,0,,Partially cloudy,partly-cloudy-night,remote
+"Bhopal, Madhya Pradesh, India",2024-08-28T05:00:00,73.9,73.9,73.1,97.23,0,0,,0,0,9.8,4.7,175,1006,50,3.2,0,0,0,,Partially cloudy,partly-cloudy-night,"VABP,42667099999"
+"Bhopal, Madhya Pradesh, India",2024-08-28T06:00:00,76.7,76.7,72.9,88.13,0,0,,0,0,11.4,6,212.4,1006,33,,0,0,0,,Partially cloudy,partly-cloudy-night,remote
+"Bhopal, Madhya Pradesh, India",2024-08-28T07:00:00,76.6,76.6,72.6,87.59,0,0,,0,0,12.5,6.7,213.6,1006,4.7,,7.3,0,0,,Clear,clear-day,remote
+"Bhopal, Madhya Pradesh, India",2024-08-28T08:00:00,77,77,72.3,85.38,0,0,,0,0,14.3,7.9,141,1006.8,49.8,3.2,109,0.4,1,,Partially cloudy,partly-cloudy-day,"VABP,42672099999,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-28T09:00:00,77.6,77.6,72.2,83.49,0,0,,0,0,19.2,7.8,213.7,1007,24.8,,315.1,1.1,3,,Partially cloudy,partly-cloudy-day,remote
+"Bhopal, Madhya Pradesh, India",2024-08-28T10:00:00,77.4,77.4,71.9,82.97,0,0,,0,0,22.6,8.5,210.8,1007,12.4,,515.4,1.9,5,,Clear,clear-day,remote
+"Bhopal, Madhya Pradesh, India",2024-08-28T11:00:00,84,95.4,78.4,83.35,0,0,,0,0,23,12.7,141,1006.6,50.2,3.1,607.4,2.2,6,,Partially cloudy,partly-cloudy-day,"VABP,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-28T12:00:00,84.1,91.3,74,71.82,0,0,,0,0,23,9.6,211.1,1006,37.1,,617.1,2.2,6,,Partially cloudy,partly-cloudy-day,remote
+"Bhopal, Madhya Pradesh, India",2024-08-28T13:00:00,84.3,91.3,73.7,70.54,0,0,,0,0,21.5,10.7,214.1,1006,78.2,,766.3,2.8,8,,Partially cloudy,partly-cloudy-day,remote
+"Bhopal, Madhya Pradesh, India",2024-08-28T14:00:00,87.9,95.7,73.1,61.66,0,0,,0,0,22.1,10.2,160,1001.9,59.9,2.5,690.8,2.5,7,,Partially cloudy,partly-cloudy-day,"42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-28T15:00:00,87.2,95.7,74,65.12,0.004,100,rain,0,0,23.3,11,217.4,1004,70.4,,724.6,2.6,7,,"Rain, Partially cloudy",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-28T16:00:00,85.4,93.3,74.2,69.39,0,0,,0,0,23,9.6,223.5,1003,38.3,,496.2,1.8,5,,Partially cloudy,partly-cloudy-day,remote
+"Bhopal, Madhya Pradesh, India",2024-08-28T17:00:00,83.7,96.3,79.8,87.96,0,0,,0,0,20.4,10.1,180,1003.1,74.3,3.2,390.3,1.4,4,,Partially cloudy,partly-cloudy-day,"VABP,42672099999,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-28T18:00:00,85.2,93.2,74.4,70.21,0,0,,0,0,18.8,6.9,218.4,1003,73.8,,193,0.7,2,,Partially cloudy,partly-cloudy-day,remote
+"Bhopal, Madhya Pradesh, India",2024-08-28T19:00:00,84.5,91.9,74,70.99,0,0,,0,0,14.8,7.6,212.5,1003,90.9,,65.1,0.2,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-28T20:00:00,77.8,77.8,76.1,94.47,0,0,,0,0,13.9,8.1,160,1005.7,75,2.8,0.5,0,0,,Partially cloudy,partly-cloudy-night,"VABP,42667099999"
+"Bhopal, Madhya Pradesh, India",2024-08-28T21:00:00,79.1,79.1,74.2,85.11,0.004,100,rain,0,0,13.9,7.4,208.9,1006,98,,0,0,0,,"Rain, Overcast",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-28T22:00:00,78.7,78.7,74.2,86.12,0.008,100,rain,0,0,13.4,7.4,210.6,1006,93.3,,0,0,0,,"Rain, Overcast",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-28T23:00:00,75.9,75.9,73.1,91.17,0,0,,0,0,12.3,9.2,160,1006.7,75,3.2,0,0,0,,Partially cloudy,partly-cloudy-night,"VABP,42667099999"
+"Bhopal, Madhya Pradesh, India",2024-08-29T00:00:00,77.3,77.3,74,89.77,0,0,,0,0,12.3,6.7,207.7,1006,94.9,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-29T01:00:00,77.1,77.1,73.8,89.76,0,0,,0,0,12.5,6.3,202.8,1006,100,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-29T02:00:00,75.3,75.3,70.1,83.86,0,0,,0,0,11.6,10.3,180,1004.2,60,2.5,0,0,0,,Partially cloudy,partly-cloudy-night,42667099999
+"Bhopal, Madhya Pradesh, India",2024-08-29T03:00:00,76,76,73.1,90.81,0,0,,0,0,10.5,5.8,204.7,1005,99.2,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-29T04:00:00,74.7,74.7,73.1,94.71,0,0,,0,0,10.3,6.3,207.7,1005,99.1,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-29T05:00:00,74.5,74.5,73.8,97.78,0,0,,0,0,9.8,5.8,160,1004.8,75,2.5,0,0,0,,Partially cloudy,partly-cloudy-night,"VABP,42667099999"
+"Bhopal, Madhya Pradesh, India",2024-08-29T06:00:00,76.7,76.7,74.2,91.94,0,0,,0,0,9.8,5.6,208.6,1005,34.5,,0,0,0,,Partially cloudy,partly-cloudy-night,remote
+"Bhopal, Madhya Pradesh, India",2024-08-29T07:00:00,76.4,76.4,74.2,93.05,0,0,,0,0,9.4,5.4,193.2,1005,56.6,,6.1,0,0,,Partially cloudy,partly-cloudy-day,remote
+"Bhopal, Madhya Pradesh, India",2024-08-29T08:00:00,77.7,77.7,75.7,93.66,0,0,,0,0,10.5,5.7,145,1006.9,84.5,2.8,98.5,0.4,1,,Partially cloudy,partly-cloudy-day,"VABP,42672099999,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-29T09:00:00,78.3,78.3,74,86.63,0,0,,0,0,15,6.7,205,1007,53.7,,289.2,1,3,,Partially cloudy,partly-cloudy-day,remote
+"Bhopal, Madhya Pradesh, India",2024-08-29T10:00:00,79.1,79.1,73.8,84.09,0,0,,0,0,15.2,6.5,219.6,1007,64.7,,444.7,1.6,4,,Partially cloudy,partly-cloudy-day,remote
+"Bhopal, Madhya Pradesh, India",2024-08-29T11:00:00,83.1,93.5,78.4,85.97,0,0,,0,0,15.2,6.9,146,1007.3,88.9,3.1,486.9,1.8,5,,Partially cloudy,partly-cloudy-day,"VABP,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-29T12:00:00,83,91.1,75.8,78.97,0,0,,0,0,15,5.8,227.8,1007,100,,376.2,1.4,4,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-29T13:00:00,83.4,91.7,75.8,78.06,0,0,,0,0,11.9,5.1,220.3,1006,62.4,,381.3,1.4,4,,Partially cloudy,partly-cloudy-day,remote
+"Bhopal, Madhya Pradesh, India",2024-08-29T14:00:00,86.8,102,79.6,79.24,0,0,,0,0,11.2,8,181,1004.1,88.9,3.1,460.5,1.7,5,,Partially cloudy,partly-cloudy-day,"VABP,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-29T15:00:00,85.4,94.7,75.6,72.81,0,0,,0,0,11,4.7,226.4,1004,54.9,,505.2,1.8,5,,Partially cloudy,partly-cloudy-day,remote
+"Bhopal, Madhya Pradesh, India",2024-08-29T16:00:00,84.1,91.2,73.8,71.38,0,0,,0,0,11.9,6.3,239.6,1003,76.5,,439.7,1.6,4,,Partially cloudy,partly-cloudy-day,remote
+"Bhopal, Madhya Pradesh, India",2024-08-29T17:00:00,83.4,94.5,78.8,86.16,0,0,,0,0,11.9,4.6,200,1003,88,3.2,273.5,1,3,,Partially cloudy,partly-cloudy-day,"VABP,42672099999,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-29T18:00:00,84.3,92.2,74.7,73.14,0,0,,0,0,9.2,3.4,222,1003,88.2,,141.8,0.5,1,,Partially cloudy,partly-cloudy-day,remote
+"Bhopal, Madhya Pradesh, India",2024-08-29T19:00:00,84.3,92.5,75.1,74.03,0,0,,0,0,6,2.7,174.6,1004,94.2,,54.5,0.2,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-29T20:00:00,76.1,76.1,75.3,97.25,0.031,100,rain,0,0,4.7,3.4,25,1006,84.3,1.3,0.4,0,0,,"Rain, Partially cloudy",rain,"VABP,42667099999"
+"Bhopal, Madhya Pradesh, India",2024-08-29T21:00:00,79.1,79.1,75.1,87.71,0,0,,0,0,5.1,3.4,167.4,1005,94.1,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-29T22:00:00,79.4,79.4,75.1,86.68,0,0,,0,0,4.9,3.8,180,1006,90.8,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-29T23:00:00,77.8,77.8,76.7,96.2,0,0,,0,0,4.7,2.2,45,1006.7,88.9,2.5,0,0,0,,Partially cloudy,partly-cloudy-night,"VABP,42667099999"
+"Bhopal, Madhya Pradesh, India",2024-08-30T00:00:00,78.9,78.9,74.9,87.7,0,0,,0,0,4.9,4.3,199.1,1007,99.8,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-30T01:00:00,78.7,78.7,74.6,87.17,0.008,100,rain,0,0,8.5,4.5,210.5,1006,100,,0,0,0,,"Rain, Overcast",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-30T02:00:00,75.9,75.9,74.1,94.16,0,0,,0,0,7.8,2.2,200,1005.9,88.9,2.5,0,0,0,,Partially cloudy,partly-cloudy-night,"VABP,42667099999"
+"Bhopal, Madhya Pradesh, India",2024-08-30T03:00:00,77.6,77.6,74.4,89.78,0.004,100,rain,0,0,7.2,3.6,242.8,1005,100,,0,0,0,,"Rain, Overcast",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-30T04:00:00,76.4,76.4,74,92.49,0,0,,0,0,5.8,2.2,252.8,1005,100,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-30T05:00:00,76,76,74.9,96.17,0,0,,0,0,4.5,3.4,295,1005.9,88.9,1.6,0,0,0,,Partially cloudy,partly-cloudy-night,"VABP,42667099999"
+"Bhopal, Madhya Pradesh, India",2024-08-30T06:00:00,77.8,77.8,74.4,89.25,0,0,,0,0,3.8,1.1,318.5,1006,96.6,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-30T07:00:00,77.4,77.4,74.6,90.87,0,0,,0,0,3.6,0.9,262.3,1006,90.9,,6,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-30T08:00:00,76.2,76.2,74.8,95.58,0,0,,0,0,5.4,3.3,314,1007.9,84.6,3.2,80.1,0.3,1,,Partially cloudy,partly-cloudy-day,"VABP,42672099999,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-30T09:00:00,79.2,79.2,74.6,85.63,0,0,,0,0,7.8,3.1,286.2,1007,60.4,,227.5,0.8,2,,Partially cloudy,partly-cloudy-day,remote
+"Bhopal, Madhya Pradesh, India",2024-08-30T10:00:00,79.4,79.4,74.4,84.62,0,0,,0,0,10.1,5.4,300.9,1008,53.4,,405,1.5,4,,Partially cloudy,partly-cloudy-day,remote
+"Bhopal, Madhya Pradesh, India",2024-08-30T11:00:00,79.6,79.6,77.2,92.32,0,0,,0,0,11.4,2.2,200,1008.6,88.9,2.5,600.5,2.2,6,,Partially cloudy,partly-cloudy-day,"VABP,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-30T12:00:00,84.1,93.2,76.2,77.19,0.004,100,rain,0,0,11.6,5.4,319.3,1007,76.5,,678.2,2.4,7,,"Rain, Partially cloudy",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-30T13:00:00,84.1,93.2,76.2,77.19,0.004,100,rain,0,0,12.3,4.7,323.3,1007,84.5,,513.5,1.8,5,,"Rain, Partially cloudy",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-30T14:00:00,85,98.6,79.6,83.8,0,0,,0,0,12.3,5.8,280,1005.2,88.8,2.8,388.6,1.4,4,,Partially cloudy,partly-cloudy-day,"VABP,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-30T15:00:00,85.6,96.5,77.1,75.93,0.004,100,rain,0,0,12.8,5.8,320,1005,70.3,,355,1.3,4,,"Rain, Partially cloudy",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-30T16:00:00,82.8,90.9,76,79.91,0.004,100,rain,0,0,14.5,6.5,319.4,1005,60.6,,460.5,1.7,5,,"Rain, Partially cloudy",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-30T17:00:00,81.5,90.4,78.7,91.28,0,0,,0,0,15,4.6,293,1005.2,89.1,2.5,358.2,1.3,4,,Partially cloudy,partly-cloudy-day,"VABP,42672099999,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-30T18:00:00,82.3,89.5,75.5,79.87,0.008,100,rain,0,0,13.9,5.6,358.5,1005,83.3,,167,0.6,2,,"Rain, Partially cloudy",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-30T19:00:00,82.5,90.4,76.2,81.33,0.004,100,rain,0,0,6.5,3.1,353,1005,90.8,,15.8,0.1,0,,"Rain, Overcast",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-30T20:00:00,77.8,77.8,75.9,93.69,0,0,,0,0,5.4,2.8,200,1007.9,88.9,2.5,0.1,0,0,,Partially cloudy,partly-cloudy-night,"VABP,42667099999"
+"Bhopal, Madhya Pradesh, India",2024-08-30T21:00:00,78.9,78.9,75.8,90.37,0.004,100,rain,0,0,5.1,2.7,8.5,1007,97.5,,0,0,0,,"Rain, Overcast",rain,remote
+"Bhopal, Madhya Pradesh, India",2024-08-30T22:00:00,78.9,78.9,75.3,88.76,0,0,,0,0,3.6,2.9,345.8,1008,97.2,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-30T23:00:00,76.3,76.3,75.9,98.62,0,0,,0,0,5.4,4.7,270,1008.6,88.9,2.5,0,0,0,,Partially cloudy,partly-cloudy-night,"VABP,42667099999"
+"Bhopal, Madhya Pradesh, India",2024-08-31T00:00:00,76.9,76.9,75.3,94.76,0,0,,0,0,5.8,2.7,351.8,1008,76.7,,0,0,0,,Partially cloudy,partly-cloudy-night,remote
+"Bhopal, Madhya Pradesh, India",2024-08-31T01:00:00,76.7,76.7,75.1,94.75,0,0,,0,0,4.5,2.5,337.1,1007,66.1,,0,0,0,,Partially cloudy,partly-cloudy-night,remote
+"Bhopal, Madhya Pradesh, India",2024-08-31T02:00:00,74.5,74.5,73.8,97.78,0,0,,0,0,5.8,4.7,290,1007.7,88.9,2.5,0,0,0,,Partially cloudy,partly-cloudy-night,"VABP,42667099999"
+"Bhopal, Madhya Pradesh, India",2024-08-31T03:00:00,75.5,75.5,74,95.3,0,0,,0,0,7.2,4.3,323.1,1006,68.4,,0,0,0,,Partially cloudy,partly-cloudy-night,remote
+"Bhopal, Madhya Pradesh, India",2024-08-31T04:00:00,74.7,74.7,73.3,95.29,0,0,,0,0,7.6,4.7,334.7,1006,61.5,,0,0,0,,Partially cloudy,partly-cloudy-night,remote
+"Bhopal, Madhya Pradesh, India",2024-08-31T05:00:00,72.5,72.5,72.1,98.6,0,0,,0,0,7.6,4.7,309,1006.9,88.9,2.5,0,0,0,,Partially cloudy,partly-cloudy-night,"VABP,42667099999"
+"Bhopal, Madhya Pradesh, India",2024-08-31T06:00:00,76.6,76.6,73.7,90.83,0,0,,0,0,8.1,4.5,342.4,1006,49.7,,0,0,0,,Partially cloudy,partly-cloudy-night,remote
+"Bhopal, Madhya Pradesh, India",2024-08-31T07:00:00,76.6,76.6,73.5,90.29,0,0,,0,0,8.5,5.1,340.9,1007,52.2,,5.9,0,0,,Partially cloudy,partly-cloudy-day,remote
+"Bhopal, Madhya Pradesh, India",2024-08-31T08:00:00,75.8,75.8,74.5,95.81,0.016,100,rain,0,0,11,3.3,309,1007.9,88.4,2.9,91.3,0.3,1,,"Rain, Partially cloudy",rain,"VABP,42672099999,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-31T09:00:00,78,78,74.4,88.72,0,0,,0,0,14.8,7.2,339.9,1007,41.7,,256.4,0.9,3,,Partially cloudy,partly-cloudy-day,remote
+"Bhopal, Madhya Pradesh, India",2024-08-31T10:00:00,77.8,77.8,74.7,90.33,0,0,,0,0,15.7,6.9,348.1,1007,38.9,,411.8,1.5,4,,Partially cloudy,partly-cloudy-day,remote
+"Bhopal, Madhya Pradesh, India",2024-08-31T11:00:00,84.2,97.8,80.2,87.96,0,0,,0,0,15.2,8,340,1007.7,84.3,3.1,558.8,2,6,,Partially cloudy,partly-cloudy-day,"VABP,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-31T12:00:00,84.8,95.3,77.1,77.71,0,0,,0,0,14.8,5.6,347.6,1007,55.9,,437.9,1.6,4,,Partially cloudy,partly-cloudy-day,remote
+"Bhopal, Madhya Pradesh, India",2024-08-31T13:00:00,83.9,93.4,76.7,79.04,0,0,,0,0,13.9,5.8,340.6,1006,47.8,,607.6,2.2,6,,Partially cloudy,partly-cloudy-day,remote
+"Bhopal, Madhya Pradesh, India",2024-08-31T14:00:00,85,99.9,80.5,86.29,0,0,,0,0,14.5,13.8,319,1005.1,88.9,2.8,620.9,2.2,6,,Partially cloudy,partly-cloudy-day,"VABP,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-31T15:00:00,85.9,97.5,77.4,75.97,0,0,,0,0,14.3,8.1,331.5,1005,62.7,,325.6,1.2,3,,Partially cloudy,partly-cloudy-day,remote
+"Bhopal, Madhya Pradesh, India",2024-08-31T16:00:00,81.8,89,76.2,83.25,0,0,,0,0,16.8,8.3,329.3,1004,70.7,,291,1,3,,Partially cloudy,partly-cloudy-day,remote
+"Bhopal, Madhya Pradesh, India",2024-08-31T17:00:00,85.1,98.7,79.6,83.71,0,0,,0,0,18.1,10.6,314,1003.6,84.2,2.8,307,1.1,3,,Partially cloudy,partly-cloudy-day,"VABP,42672099999,42667099999,42763099999"
+"Bhopal, Madhya Pradesh, India",2024-08-31T18:00:00,84.1,94.1,77.1,79.52,0,0,,0,0,18.1,8.9,343.6,1003,92.4,,190.3,0.7,2,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-31T19:00:00,84.3,94.6,77.3,79.54,0,0,,0,0,14.5,6.3,339.2,1005,97.8,,57.7,0.2,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-31T20:00:00,79.7,79.7,76,88.55,0,0,,0,0,7.6,6.9,290,1006.4,84.3,2.8,0.2,0,0,,Partially cloudy,partly-cloudy-night,"VABP,42667099999"
+"Bhopal, Madhya Pradesh, India",2024-08-31T21:00:00,80.9,87.3,76.4,86.24,0,0,,0,0,8.3,6,328.3,1006,100,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-31T22:00:00,80.1,85.7,76.2,87.76,0,0,,0,0,9.4,5.8,326,1006,96,,0,0,0,,Overcast,cloudy,remote
+"Bhopal, Madhya Pradesh, India",2024-08-31T23:00:00,77.2,77.2,75.9,95.52,0,0,,0,0,9.4,5.8,290,1006.7,84.3,2.8,0,0,0,,Partially cloudy,partly-cloudy-night,"VABP,42667099999"
